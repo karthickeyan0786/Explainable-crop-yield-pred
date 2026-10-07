@@ -1,0 +1,471 @@
+{
+  "model_name": "CatBoost (per-crop architecture)",
+  "architecture": "52 crop-specific models (>=500 rows each, 96.6% of data) + 1 pooled fallback model for smaller crops",
+  "r2": 0.878313113161602,
+  "mae": 9.335876533473325,
+  "rmse": 206.04911643762617,
+  "mse": 42456.23838472643,
+  "test_set_size": 48112,
+  "train_set_size": 192349,
+  "note_on_pooled_r2": "This pooled R2 is mathematically higher than most individual crop R2 values because pooling predictions across crops with very different yield SCALES inflates the total-variance denominator in the R2 formula. This is a real statistical property, not an artifact -- see per_crop_metrics below for the honest per-crop breakdown, which ranges from 0.46 to 0.95.",
+  "n_crop_specific_models": 52,
+  "pct_rows_with_own_crop_model": 96.57,
+  "fallback_model": {
+    "covers_n_crops": 72,
+    "covers_pct_rows": 3.43,
+    "r2": 0.6157594786814151,
+    "mae": 1.9770224531443559,
+    "rmse": 6.739559459154578
+  },
+  "crops_below_r2_0.5": [
+    "Soyabean",
+    "Khesari"
+  ],
+  "crops_at_or_above_r2_0.8": [
+    "Tapioca",
+    "Black Pepper",
+    "Tobacco",
+    "Dry Ginger",
+    "Sannhamp",
+    "Turmeric",
+    "Wheat",
+    "Sweet Potato",
+    "Coriander",
+    "Coconut"
+  ],
+  "per_crop_metrics": [
+    {
+      "crop": "Tapioca",
+      "n_rows": 1584,
+      "n_test": 317,
+      "r2": 0.9485,
+      "mae": 2.0239,
+      "rmse": 3.0706
+    },
+    {
+      "crop": "Black Pepper",
+      "n_rows": 903,
+      "n_test": 181,
+      "r2": 0.9191,
+      "mae": 0.1681,
+      "rmse": 0.3173
+    },
+    {
+      "crop": "Tobacco",
+      "n_rows": 2637,
+      "n_test": 528,
+      "r2": 0.9054,
+      "mae": 0.3365,
+      "rmse": 0.5723
+    },
+    {
+      "crop": "Dry Ginger",
+      "n_rows": 2867,
+      "n_test": 574,
+      "r2": 0.8852,
+      "mae": 0.718,
+      "rmse": 1.4045
+    },
+    {
+      "crop": "Sannhamp",
+      "n_rows": 2167,
+      "n_test": 434,
+      "r2": 0.8556,
+      "mae": 0.2721,
+      "rmse": 0.5253
+    },
+    {
+      "crop": "Turmeric",
+      "n_rows": 4160,
+      "n_test": 832,
+      "r2": 0.8341,
+      "mae": 0.4941,
+      "rmse": 0.9137
+    },
+    {
+      "crop": "Wheat",
+      "n_rows": 7877,
+      "n_test": 1576,
+      "r2": 0.8269,
+      "mae": 0.3283,
+      "rmse": 0.4416
+    },
+    {
+      "crop": "Sweet Potato",
+      "n_rows": 4120,
+      "n_test": 824,
+      "r2": 0.8123,
+      "mae": 1.1757,
+      "rmse": 2.0971
+    },
+    {
+      "crop": "Coriander",
+      "n_rows": 3288,
+      "n_test": 658,
+      "r2": 0.8109,
+      "mae": 0.0698,
+      "rmse": 0.1072
+    },
+    {
+      "crop": "Coconut",
+      "n_rows": 1956,
+      "n_test": 392,
+      "r2": 0.8014,
+      "mae": 1047.6087,
+      "rmse": 2282.4826
+    },
+    {
+      "crop": "Jute",
+      "n_rows": 1407,
+      "n_test": 282,
+      "r2": 0.7989,
+      "mae": 1.3177,
+      "rmse": 1.9373
+    },
+    {
+      "crop": "Sugarcane",
+      "n_rows": 7772,
+      "n_test": 1555,
+      "r2": 0.7958,
+      "mae": 8.7733,
+      "rmse": 12.9172
+    },
+    {
+      "crop": "Garlic",
+      "n_rows": 3205,
+      "n_test": 641,
+      "r2": 0.7944,
+      "mae": 0.5171,
+      "rmse": 0.9058
+    },
+    {
+      "crop": "Onion",
+      "n_rows": 6964,
+      "n_test": 1393,
+      "r2": 0.7694,
+      "mae": 2.2716,
+      "rmse": 3.544
+    },
+    {
+      "crop": "Cashewnut",
+      "n_rows": 1054,
+      "n_test": 211,
+      "r2": 0.7677,
+      "mae": 0.0829,
+      "rmse": 0.1311
+    },
+    {
+      "crop": "Potato",
+      "n_rows": 6910,
+      "n_test": 1382,
+      "r2": 0.7618,
+      "mae": 2.451,
+      "rmse": 3.426
+    },
+    {
+      "crop": "Ragi",
+      "n_rows": 4111,
+      "n_test": 823,
+      "r2": 0.755,
+      "mae": 0.2187,
+      "rmse": 0.323
+    },
+    {
+      "crop": "Castor Seed",
+      "n_rows": 3224,
+      "n_test": 645,
+      "r2": 0.7519,
+      "mae": 0.1528,
+      "rmse": 0.2371
+    },
+    {
+      "crop": "Niger Seed",
+      "n_rows": 2007,
+      "n_test": 402,
+      "r2": 0.7488,
+      "mae": 0.0525,
+      "rmse": 0.0862
+    },
+    {
+      "crop": "Dry Chillies",
+      "n_rows": 6239,
+      "n_test": 1248,
+      "r2": 0.7445,
+      "mae": 0.299,
+      "rmse": 0.4769
+    },
+    {
+      "crop": "Mesta",
+      "n_rows": 1768,
+      "n_test": 354,
+      "r2": 0.7403,
+      "mae": 0.9344,
+      "rmse": 1.7396
+    },
+    {
+      "crop": "Barley",
+      "n_rows": 4110,
+      "n_test": 822,
+      "r2": 0.7388,
+      "mae": 0.3226,
+      "rmse": 0.4534
+    },
+    {
+      "crop": "Arecanut",
+      "n_rows": 1352,
+      "n_test": 271,
+      "r2": 0.734,
+      "mae": 0.3063,
+      "rmse": 0.4824
+    },
+    {
+      "crop": "Other Cereals & Millets",
+      "n_rows": 603,
+      "n_test": 121,
+      "r2": 0.7336,
+      "mae": 0.1431,
+      "rmse": 0.1994
+    },
+    {
+      "crop": "Sunflower",
+      "n_rows": 5475,
+      "n_test": 1095,
+      "r2": 0.7333,
+      "mae": 0.19,
+      "rmse": 0.2765
+    },
+    {
+      "crop": "Horse-Gram",
+      "n_rows": 3814,
+      "n_test": 763,
+      "r2": 0.7322,
+      "mae": 0.085,
+      "rmse": 0.1198
+    },
+    {
+      "crop": "Guar Seed",
+      "n_rows": 1222,
+      "n_test": 245,
+      "r2": 0.718,
+      "mae": 0.088,
+      "rmse": 0.1521
+    },
+    {
+      "crop": "Cotton(Lint)",
+      "n_rows": 4356,
+      "n_test": 872,
+      "r2": 0.7129,
+      "mae": 0.3994,
+      "rmse": 0.5983
+    },
+    {
+      "crop": "Rapeseed &Mustard",
+      "n_rows": 7509,
+      "n_test": 1502,
+      "r2": 0.7129,
+      "mae": 0.1606,
+      "rmse": 0.2275
+    },
+    {
+      "crop": "Banana",
+      "n_rows": 3131,
+      "n_test": 627,
+      "r2": 0.7123,
+      "mae": 5.2565,
+      "rmse": 9.5764
+    },
+    {
+      "crop": "Rice",
+      "n_rows": 15068,
+      "n_test": 3014,
+      "r2": 0.7029,
+      "mae": 0.3801,
+      "rmse": 0.5105
+    },
+    {
+      "crop": "Sesamum",
+      "n_rows": 8803,
+      "n_test": 1761,
+      "r2": 0.6976,
+      "mae": 0.0914,
+      "rmse": 0.1333
+    },
+    {
+      "crop": "Linseed",
+      "n_rows": 4335,
+      "n_test": 867,
+      "r2": 0.685,
+      "mae": 0.0859,
+      "rmse": 0.1379
+    },
+    {
+      "crop": "Bajra",
+      "n_rows": 5372,
+      "n_test": 1075,
+      "r2": 0.6823,
+      "mae": 0.2599,
+      "rmse": 0.3636
+    },
+    {
+      "crop": "Cowpea(Lobia)",
+      "n_rows": 541,
+      "n_test": 109,
+      "r2": 0.6742,
+      "mae": 0.1098,
+      "rmse": 0.1757
+    },
+    {
+      "crop": "Maize",
+      "n_rows": 13643,
+      "n_test": 2729,
+      "r2": 0.6703,
+      "mae": 0.4666,
+      "rmse": 0.6854
+    },
+    {
+      "crop": "Other Oilseeds",
+      "n_rows": 564,
+      "n_test": 113,
+      "r2": 0.6667,
+      "mae": 0.1185,
+      "rmse": 0.1877
+    },
+    {
+      "crop": "Moth",
+      "n_rows": 786,
+      "n_test": 158,
+      "r2": 0.6527,
+      "mae": 0.0985,
+      "rmse": 0.1495
+    },
+    {
+      "crop": "Small Millets",
+      "n_rows": 4571,
+      "n_test": 915,
+      "r2": 0.6403,
+      "mae": 0.1348,
+      "rmse": 0.1991
+    },
+    {
+      "crop": "Peas & Beans (Pulses)",
+      "n_rows": 4200,
+      "n_test": 840,
+      "r2": 0.6343,
+      "mae": 0.1729,
+      "rmse": 0.2679
+    },
+    {
+      "crop": "Other  Rabi Pulses",
+      "n_rows": 3059,
+      "n_test": 612,
+      "r2": 0.6316,
+      "mae": 0.1382,
+      "rmse": 0.2128
+    },
+    {
+      "crop": "Safflower",
+      "n_rows": 1300,
+      "n_test": 260,
+      "r2": 0.6128,
+      "mae": 0.124,
+      "rmse": 0.1641
+    },
+    {
+      "crop": "Other Kharif Pulses",
+      "n_rows": 3524,
+      "n_test": 705,
+      "r2": 0.6117,
+      "mae": 0.1173,
+      "rmse": 0.1807
+    },
+    {
+      "crop": "Moong(Green Gram)",
+      "n_rows": 10084,
+      "n_test": 2017,
+      "r2": 0.597,
+      "mae": 0.107,
+      "rmse": 0.1517
+    },
+    {
+      "crop": "Groundnut",
+      "n_rows": 8708,
+      "n_test": 1742,
+      "r2": 0.5886,
+      "mae": 0.2516,
+      "rmse": 0.3499
+    },
+    {
+      "crop": "Urad",
+      "n_rows": 9691,
+      "n_test": 1939,
+      "r2": 0.5767,
+      "mae": 0.1094,
+      "rmse": 0.1539
+    },
+    {
+      "crop": "Gram",
+      "n_rows": 7199,
+      "n_test": 1440,
+      "r2": 0.5588,
+      "mae": 0.165,
+      "rmse": 0.2237
+    },
+    {
+      "crop": "Masoor",
+      "n_rows": 4123,
+      "n_test": 825,
+      "r2": 0.5321,
+      "mae": 0.1382,
+      "rmse": 0.2136
+    },
+    {
+      "crop": "Jowar",
+      "n_rows": 6914,
+      "n_test": 1383,
+      "r2": 0.528,
+      "mae": 0.2509,
+      "rmse": 0.3568
+    },
+    {
+      "crop": "Arhar/Tur",
+      "n_rows": 7425,
+      "n_test": 1485,
+      "r2": 0.5279,
+      "mae": 0.1815,
+      "rmse": 0.254
+    },
+    {
+      "crop": "Soyabean",
+      "n_rows": 3166,
+      "n_test": 634,
+      "r2": 0.4992,
+      "mae": 0.2139,
+      "rmse": 0.295
+    },
+    {
+      "crop": "Khesari",
+      "n_rows": 1353,
+      "n_test": 271,
+      "r2": 0.4563,
+      "mae": 0.1753,
+      "rmse": 0.2298
+    }
+  ],
+  "evaluation_history": {
+    "1_original_uncleaned_single_model": {
+      "r2": 0.1459034233486174,
+      "mae": 37.95798433571678,
+      "rmse": 866.0970288967663
+    },
+    "2_cleaned_single_model": {
+      "r2": 0.3132675346701669,
+      "mae": 28.016646734950054,
+      "rmse": 485.81268929418326
+    },
+    "3_percrop_architecture_current": {
+      "r2": 0.878313113161602,
+      "mae": 9.335876533473325,
+      "rmse": 206.04911643762617
+    }
+  }
+}

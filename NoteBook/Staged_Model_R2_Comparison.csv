@@ -1,0 +1,8 @@
+Stage,CatBoost
+Stage 1: Crop (Baseline),0.7689710184252978
+Stage 2: Crop + Soil,0.7619485329861604
+Stage 3: Crop + Temperature,0.7689710184252978
+Stage 4: Crop + Fertilizer,0.7665794813950245
+Stage 5: Crop + Pesticide,0.7874791093850202
+Stage 6: Crop + Soil + Temperature,0.7619485329861604
+Stage 7: Final Dataset (All),0.7653018929998496

@@ -1,0 +1,33 @@
+{
+  "architecture": "per-crop CatBoost models (>=500 rows/crop) + pooled fallback for smaller crops",
+  "n_crop_models": 52,
+  "n_crops_covered_by_own_model": 52,
+  "pct_rows_with_own_crop_model": 96.57485537954811,
+  "fallback_covers_n_crops": 72,
+  "fallback_covers_pct_rows": 3.4251446204518894,
+  "fallback_r2": 0.6157594786814151,
+  "fallback_mae": 1.9770224531443559,
+  "fallback_rmse": 6.739559459154578,
+  "overall_r2": 0.878313113161602,
+  "overall_mae": 9.335876533473325,
+  "overall_rmse": 206.04911643762617,
+  "overall_n_test": 48112,
+  "crops_below_r2_0.5": [
+    "Soyabean",
+    "Khesari"
+  ],
+  "crops_at_or_above_r2_0.8": [
+    "Tapioca",
+    "Black Pepper",
+    "Tobacco",
+    "Dry Ginger",
+    "Sannhamp",
+    "Turmeric",
+    "Wheat",
+    "Sweet Potato",
+    "Coriander",
+    "Coconut"
+  ],
+  "n_crops_below_r2_0.5": 2,
+  "n_crops_at_or_above_0.8": 10
+}

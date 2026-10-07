@@ -1,0 +1,1333 @@
+Station Name,Month,Period,No. of Years,Rainy_Months_Count,Mean Rainfall in mm
+Abu,January,1901-2000,100,1,5.3
+Abu,February,1901-2000,100,1,4.4
+Abu,March,1901-2000,100,1,6.5
+Abu,April,1901-2000,100,1,2.6
+Abu,May,1901-2000,100,1,16.4
+Abu,June,1901-2000,100,1,101.6
+Abu,July,1901-2000,100,1,573.2
+Abu,August,1901-2000,100,1,600.3
+Abu,September,1901-2000,100,1,214.2
+Abu,October,1901-2000,100,1,19.4
+Abu,November,1901-2000,100,1,7.9
+Abu,December,1901-2000,100,0,2.4
+Agartala (A),January,1953-2000,43,1,27.5
+Agartala (A),February,1953-2000,43,1,21.5
+Agartala (A),March,1953-2000,43,1,60.7
+Agartala (A),April,1953-2000,43,1,199.7
+Agartala (A),May,1953-2000,43,1,329.9
+Agartala (A),June,1953-2000,43,1,393.4
+Agartala (A),July,1953-2000,43,1,363.1
+Agartala (A),August,1953-2000,43,1,298.7
+Agartala (A),September,1953-2000,43,1,232.4
+Agartala (A),October,1953-2000,43,1,162.5
+Agartala (A),November,1953-2000,43,1,46.0
+Agartala (A),December,1953-2000,43,1,10.6
+Agra,January,1901-2000,100,1,13.2
+Agra,February,1901-2000,100,1,17.6
+Agra,March,1901-2000,100,1,9.3
+Agra,April,1901-2000,100,1,6.3
+Agra,May,1901-2000,100,1,11.3
+Agra,June,1901-2000,100,1,55.7
+Agra,July,1901-2000,100,1,203.3
+Agra,August,1901-2000,100,1,243.2
+Agra,September,1901-2000,100,1,129.7
+Agra,October,1901-2000,100,1,24.8
+Agra,November,1901-2000,100,1,4.3
+Agra,December,1901-2000,100,1,6.1
+Ahmedabad,January,1901-2000,100,0,2.1
+Ahmedabad,February,1901-2000,100,0,1.2
+Ahmedabad,March,1901-2000,100,0,1.1
+Ahmedabad,April,1901-2000,100,0,1.9
+Ahmedabad,May,1901-2000,100,1,9.1
+Ahmedabad,June,1901-2000,100,1,97.4
+Ahmedabad,July,1901-2000,100,1,309.8
+Ahmedabad,August,1901-2000,100,1,213.8
+Ahmedabad,September,1901-2000,100,1,126.6
+Ahmedabad,October,1901-2000,100,1,13.5
+Ahmedabad,November,1901-2000,100,1,6.1
+Ahmedabad,December,1901-2000,100,0,1.7
+Aijal/Aizwal,January,1937-1992,34,1,13.4
+Aijal/Aizwal,February,1937-1992,34,1,23.4
+Aijal/Aizwal,March,1937-1992,34,1,73.4
+Aijal/Aizwal,April,1937-1992,34,1,167.7
+Aijal/Aizwal,May,1937-1992,34,1,289.0
+Aijal/Aizwal,June,1937-1992,34,1,406.1
+Aijal/Aizwal,July,1937-1992,34,1,320.4
+Aijal/Aizwal,August,1937-1992,34,1,320.6
+Aijal/Aizwal,September,1937-1992,34,1,305.2
+Aijal/Aizwal,October,1937-1992,34,1,183.7
+Aijal/Aizwal,November,1937-1992,34,1,43.2
+Aijal/Aizwal,December,1937-1992,34,1,15.3
+Ajmer,January,1901-2000,100,1,7.3
+Ajmer,February,1901-2000,100,1,6.0
+Ajmer,March,1901-2000,100,1,5.0
+Ajmer,April,1901-2000,100,1,4.0
+Ajmer,May,1901-2000,100,1,15.7
+Ajmer,June,1901-2000,100,1,58.1
+Ajmer,July,1901-2000,100,1,181.5
+Ajmer,August,1901-2000,100,1,157.5
+Ajmer,September,1901-2000,100,1,73.0
+Ajmer,October,1901-2000,100,1,13.1
+Ajmer,November,1901-2000,100,1,4.0
+Ajmer,December,1901-2000,100,1,3.8
+Akola (A),January,1961-2000,40,1,10.4
+Akola (A),February,1961-2000,40,1,8.1
+Akola (A),March,1961-2000,40,1,10.0
+Akola (A),April,1961-2000,40,1,4.1
+Akola (A),May,1961-2000,40,1,9.8
+Akola (A),June,1961-2000,40,1,144.9
+Akola (A),July,1961-2000,40,1,217.2
+Akola (A),August,1961-2000,40,1,196.6
+Akola (A),September,1961-2000,40,1,122.7
+Akola (A),October,1961-2000,40,1,47.7
+Akola (A),November,1961-2000,40,1,18.7
+Akola (A),December,1961-2000,40,1,12.1
+Allahabad,January,1901-2000,100,1,17.9
+Allahabad,February,1901-2000,100,1,17.3
+Allahabad,March,1901-2000,100,1,9.6
+Allahabad,April,1901-2000,100,1,5.5
+Allahabad,May,1901-2000,100,1,8.8
+Allahabad,June,1901-2000,100,1,88.8
+Allahabad,July,1901-2000,100,1,280.9
+Allahabad,August,1901-2000,100,1,296.1
+Allahabad,September,1901-2000,100,1,185.0
+Allahabad,October,1901-2000,100,1,36.6
+Allahabad,November,1901-2000,100,1,9.3
+Allahabad,December,1901-2000,100,1,7.0
+Ambikapur,January,1951-2000,49,1,22.6
+Ambikapur,February,1951-2000,49,1,22.5
+Ambikapur,March,1951-2000,49,1,18.4
+Ambikapur,April,1951-2000,49,1,13.0
+Ambikapur,May,1951-2000,49,1,19.4
+Ambikapur,June,1951-2000,49,1,211.2
+Ambikapur,July,1951-2000,49,1,428.3
+Ambikapur,August,1951-2000,49,1,389.8
+Ambikapur,September,1951-2000,49,1,227.2
+Ambikapur,October,1951-2000,49,1,56.8
+Ambikapur,November,1951-2000,49,1,9.7
+Ambikapur,December,1951-2000,49,1,6.5
+Amini Divi,January,1901-2000,97,1,15.9
+Amini Divi,February,1901-2000,97,1,2.9
+Amini Divi,March,1901-2000,97,1,3.8
+Amini Divi,April,1901-2000,97,1,22.6
+Amini Divi,May,1901-2000,97,1,131.1
+Amini Divi,June,1901-2000,97,1,371.1
+Amini Divi,July,1901-2000,97,1,314.5
+Amini Divi,August,1901-2000,97,1,214.0
+Amini Divi,September,1901-2000,97,1,149.9
+Amini Divi,October,1901-2000,97,1,139.2
+Amini Divi,November,1901-2000,97,1,88.6
+Amini Divi,December,1901-2000,97,1,38.5
+Amritsar (Rajasansi),January,1948-2000,53,1,28.3
+Amritsar (Rajasansi),February,1948-2000,53,1,29.2
+Amritsar (Rajasansi),March,1948-2000,53,1,34.8
+Amritsar (Rajasansi),April,1948-2000,53,1,19.3
+Amritsar (Rajasansi),May,1948-2000,53,1,19.6
+Amritsar (Rajasansi),June,1948-2000,53,1,51.7
+Amritsar (Rajasansi),July,1948-2000,53,1,224.7
+Amritsar (Rajasansi),August,1948-2000,53,1,174.5
+Amritsar (Rajasansi),September,1948-2000,53,1,94.6
+Amritsar (Rajasansi),October,1948-2000,53,1,21.3
+Amritsar (Rajasansi),November,1948-2000,53,1,5.7
+Amritsar (Rajasansi),December,1948-2000,53,1,14.6
+Anantpur,January,1946-2000,55,0,0.9
+Anantpur,February,1946-2000,55,0,1.3
+Anantpur,March,1946-2000,55,1,4.7
+Anantpur,April,1946-2000,55,1,16.9
+Anantpur,May,1946-2000,55,1,55.0
+Anantpur,June,1946-2000,55,1,55.8
+Anantpur,July,1946-2000,55,1,62.7
+Anantpur,August,1946-2000,55,1,75.3
+Anantpur,September,1946-2000,55,1,133.2
+Anantpur,October,1946-2000,55,1,104.7
+Anantpur,November,1946-2000,55,1,37.8
+Anantpur,December,1946-2000,55,1,11.2
+Androth,January,1965-1979,11,1,10.5
+Androth,February,1965-1979,11,0,2.4
+Androth,March,1965-1979,11,1,6.0
+Androth,April,1965-1979,11,1,25.9
+Androth,May,1965-1979,11,1,130.4
+Androth,June,1965-1979,11,1,401.7
+Androth,July,1965-1979,11,1,486.1
+Androth,August,1965-1979,11,1,238.6
+Androth,September,1965-1979,11,1,182.2
+Androth,October,1965-1979,11,1,166.5
+Androth,November,1965-1979,11,1,129.8
+Androth,December,1965-1979,11,1,90.2
+Aurangabad,January,1952-2000,49,1,11.3
+Aurangabad,February,1952-2000,49,1,2.7
+Aurangabad,March,1952-2000,49,1,5.6
+Aurangabad,April,1952-2000,49,1,3.9
+Aurangabad,May,1952-2000,49,1,26.2
+Aurangabad,June,1952-2000,49,1,132.2
+Aurangabad,July,1952-2000,49,1,157.9
+Aurangabad,August,1952-2000,49,1,152.7
+Aurangabad,September,1952-2000,49,1,146.0
+Aurangabad,October,1952-2000,49,1,62.1
+Aurangabad,November,1952-2000,49,1,26.8
+Aurangabad,December,1952-2000,49,1,12.0
+Balasore,January,1901-2000,97,1,17.0
+Balasore,February,1901-2000,97,1,36.3
+Balasore,March,1901-2000,97,1,39.4
+Balasore,April,1901-2000,97,1,54.8
+Balasore,May,1901-2000,97,1,108.6
+Balasore,June,1901-2000,97,1,233.4
+Balasore,July,1901-2000,97,1,297.9
+Balasore,August,1901-2000,97,1,318.3
+Balasore,September,1901-2000,97,1,275.8
+Balasore,October,1901-2000,97,1,184.0
+Balasore,November,1901-2000,97,1,41.6
+Balasore,December,1901-2000,97,1,6.5
+Bangalore,January,1901-2000,100,1,4.9
+Bangalore,February,1901-2000,100,1,7.9
+Bangalore,March,1901-2000,100,1,10.0
+Bangalore,April,1901-2000,100,1,43.9
+Bangalore,May,1901-2000,100,1,111.9
+Bangalore,June,1901-2000,100,1,79.7
+Bangalore,July,1901-2000,100,1,109.7
+Bangalore,August,1901-2000,100,1,138.8
+Bangalore,September,1901-2000,100,1,185.9
+Bangalore,October,1901-2000,100,1,161.7
+Bangalore,November,1901-2000,100,1,59.2
+Bangalore,December,1901-2000,100,1,17.4
+Bareilly,January,1901-2000,97,1,22.9
+Bareilly,February,1901-2000,97,1,25.3
+Bareilly,March,1901-2000,97,1,14.5
+Bareilly,April,1901-2000,97,1,8.9
+Bareilly,May,1901-2000,97,1,19.3
+Bareilly,June,1901-2000,97,1,106.4
+Bareilly,July,1901-2000,97,1,307.0
+Bareilly,August,1901-2000,97,1,290.9
+Bareilly,September,1901-2000,97,1,186.1
+Bareilly,October,1901-2000,97,1,44.9
+Bareilly,November,1901-2000,97,1,3.9
+Bareilly,December,1901-2000,97,1,9.7
+Baroda (A),January,1952-2000,48,0,2.2
+Baroda (A),February,1952-2000,48,0,0.7
+Baroda (A),March,1952-2000,48,0,0.7
+Baroda (A),April,1952-2000,48,0,1.4
+Baroda (A),May,1952-2000,48,1,6.1
+Baroda (A),June,1952-2000,48,1,118.9
+Baroda (A),July,1952-2000,48,1,274.6
+Baroda (A),August,1952-2000,48,1,242.4
+Baroda (A),September,1952-2000,48,1,124.2
+Baroda (A),October,1952-2000,48,1,26.4
+Baroda (A),November,1952-2000,48,1,13.3
+Baroda (A),December,1952-2000,48,1,3.7
+Belgaum Samra,January,1952-2000,49,0,1.1
+Belgaum Samra,February,1952-2000,49,0,2.1
+Belgaum Samra,March,1952-2000,49,1,10.6
+Belgaum Samra,April,1952-2000,49,1,45.1
+Belgaum Samra,May,1952-2000,49,1,89.8
+Belgaum Samra,June,1952-2000,49,1,166.1
+Belgaum Samra,July,1952-2000,49,1,268.9
+Belgaum Samra,August,1952-2000,49,1,157.4
+Belgaum Samra,September,1952-2000,49,1,109.3
+Belgaum Samra,October,1952-2000,49,1,124.9
+Belgaum Samra,November,1952-2000,49,1,34.2
+Belgaum Samra,December,1952-2000,49,1,5.6
+Bhagalpur,January,1901-1999,56,1,18.2
+Bhagalpur,February,1901-1999,56,1,11.4
+Bhagalpur,March,1901-1999,56,1,10.3
+Bhagalpur,April,1901-1999,56,1,21.5
+Bhagalpur,May,1901-1999,56,1,63.0
+Bhagalpur,June,1901-1999,56,1,187.4
+Bhagalpur,July,1901-1999,56,1,264.5
+Bhagalpur,August,1901-1999,56,1,240.7
+Bhagalpur,September,1901-1999,56,1,211.6
+Bhagalpur,October,1901-1999,56,1,83.2
+Bhagalpur,November,1901-1999,56,1,5.4
+Bhagalpur,December,1901-1999,56,1,3.3
+Bhatinda,January,1959-1984,24,1,11.4
+Bhatinda,February,1959-1984,24,1,13.2
+Bhatinda,March,1959-1984,24,1,23.5
+Bhatinda,April,1959-1984,24,1,8.8
+Bhatinda,May,1959-1984,24,1,14.8
+Bhatinda,June,1959-1984,24,1,34.1
+Bhatinda,July,1959-1984,24,1,133.1
+Bhatinda,August,1959-1984,24,1,120.2
+Bhatinda,September,1959-1984,24,1,47.0
+Bhatinda,October,1959-1984,24,1,7.8
+Bhatinda,November,1959-1984,24,1,7.7
+Bhatinda,December,1959-1984,24,1,6.8
+Bhopal (Bairagarh),January,1949-2000,52,1,13.2
+Bhopal (Bairagarh),February,1949-2000,52,1,8.7
+Bhopal (Bairagarh),March,1949-2000,52,1,8.4
+Bhopal (Bairagarh),April,1949-2000,52,1,4.3
+Bhopal (Bairagarh),May,1949-2000,52,1,11.7
+Bhopal (Bairagarh),June,1949-2000,52,1,120.2
+Bhopal (Bairagarh),July,1949-2000,52,1,354.1
+Bhopal (Bairagarh),August,1949-2000,52,1,363.3
+Bhopal (Bairagarh),September,1949-2000,52,1,185.1
+Bhopal (Bairagarh),October,1949-2000,52,1,31.0
+Bhopal (Bairagarh),November,1949-2000,52,1,12.1
+Bhopal (Bairagarh),December,1949-2000,52,1,11.0
+Bhubaneshwar (A),January,1952-2000,49,1,13.1
+Bhubaneshwar (A),February,1952-2000,49,1,25.5
+Bhubaneshwar (A),March,1952-2000,49,1,25.2
+Bhubaneshwar (A),April,1952-2000,49,1,30.8
+Bhubaneshwar (A),May,1952-2000,49,1,68.2
+Bhubaneshwar (A),June,1952-2000,49,1,204.9
+Bhubaneshwar (A),July,1952-2000,49,1,326.2
+Bhubaneshwar (A),August,1952-2000,49,1,366.8
+Bhubaneshwar (A),September,1952-2000,49,1,256.3
+Bhubaneshwar (A),October,1952-2000,49,1,190.7
+Bhubaneshwar (A),November,1952-2000,49,1,41.7
+Bhubaneshwar (A),December,1952-2000,49,1,4.9
+Bhuj (Rudramata),January,1953-2000,47,0,2.0
+Bhuj (Rudramata),February,1953-2000,47,0,1.5
+Bhuj (Rudramata),March,1953-2000,47,0,2.1
+Bhuj (Rudramata),April,1953-2000,47,0,1.1
+Bhuj (Rudramata),May,1953-2000,47,1,7.5
+Bhuj (Rudramata),June,1953-2000,47,1,38.0
+Bhuj (Rudramata),July,1953-2000,47,1,125.7
+Bhuj (Rudramata),August,1953-2000,47,1,103.5
+Bhuj (Rudramata),September,1953-2000,47,1,63.1
+Bhuj (Rudramata),October,1953-2000,47,1,19.7
+Bhuj (Rudramata),November,1953-2000,47,1,8.5
+Bhuj (Rudramata),December,1953-2000,47,0,1.0
+Bikaner,January,1901-2000,97,1,5.7
+Bikaner,February,1901-2000,97,1,7.8
+Bikaner,March,1901-2000,97,1,6.3
+Bikaner,April,1901-2000,97,1,11.9
+Bikaner,May,1901-2000,97,1,15.9
+Bikaner,June,1901-2000,97,1,33.0
+Bikaner,July,1901-2000,97,1,91.1
+Bikaner,August,1901-2000,97,1,82.6
+Bikaner,September,1901-2000,97,1,40.8
+Bikaner,October,1901-2000,97,1,10.1
+Bikaner,November,1901-2000,97,0,1.9
+Bikaner,December,1901-2000,97,1,3.0
+Cannanore,January,1978-2000,22,1,4.8
+Cannanore,February,1978-2000,22,0,0.2
+Cannanore,March,1978-2000,22,1,52.3
+Cannanore,April,1978-2000,22,1,41.7
+Cannanore,May,1978-2000,22,1,206.6
+Cannanore,June,1978-2000,22,1,1048.1
+Cannanore,July,1978-2000,22,1,875.5
+Cannanore,August,1978-2000,22,1,574.4
+Cannanore,September,1978-2000,22,1,200.8
+Cannanore,October,1978-2000,22,1,221.7
+Cannanore,November,1978-2000,22,1,103.3
+Cannanore,December,1978-2000,22,1,36.5
+Chandigarh,January,1954-1977,24,1,46.6
+Chandigarh,February,1954-1977,24,1,33.9
+Chandigarh,March,1954-1977,24,1,29.3
+Chandigarh,April,1954-1977,24,1,11.3
+Chandigarh,May,1954-1977,24,1,24.2
+Chandigarh,June,1954-1977,24,1,112.6
+Chandigarh,July,1954-1977,24,1,276.3
+Chandigarh,August,1954-1977,24,1,282.8
+Chandigarh,September,1954-1977,24,1,179.0
+Chandigarh,October,1954-1977,24,1,41.6
+Chandigarh,November,1954-1977,24,1,6.7
+Chandigarh,December,1954-1977,24,1,18.9
+Chennai (Minambakkam),January,1901-2000,100,1,35.3
+Chennai (Minambakkam),February,1901-2000,100,1,13.0
+Chennai (Minambakkam),March,1901-2000,100,1,14.5
+Chennai (Minambakkam),April,1901-2000,100,1,15.9
+Chennai (Minambakkam),May,1901-2000,100,1,42.4
+Chennai (Minambakkam),June,1901-2000,100,1,53.9
+Chennai (Minambakkam),July,1901-2000,100,1,99.6
+Chennai (Minambakkam),August,1901-2000,100,1,129.9
+Chennai (Minambakkam),September,1901-2000,100,1,123.5
+Chennai (Minambakkam),October,1901-2000,100,1,284.6
+Chennai (Minambakkam),November,1901-2000,100,1,353.0
+Chennai (Minambakkam),December,1901-2000,100,1,146.3
+Cherrapunji,January,1902-2000,99,1,19.2
+Cherrapunji,February,1902-2000,99,1,51.5
+Cherrapunji,March,1902-2000,99,1,223.1
+Cherrapunji,April,1902-2000,99,1,684.1
+Cherrapunji,May,1902-2000,99,1,1393.9
+Cherrapunji,June,1902-2000,99,1,2597.5
+Cherrapunji,July,1902-2000,99,1,2622.0
+Cherrapunji,August,1902-2000,99,1,1793.5
+Cherrapunji,September,1902-2000,99,1,1113.0
+Cherrapunji,October,1902-2000,99,1,478.0
+Cherrapunji,November,1902-2000,99,1,63.3
+Cherrapunji,December,1902-2000,99,1,13.5
+Coimbatore (Pilamedu),January,1948-2000,53,1,6.6
+Coimbatore (Pilamedu),February,1948-2000,53,1,8.9
+Coimbatore (Pilamedu),March,1948-2000,53,1,12.0
+Coimbatore (Pilamedu),April,1948-2000,53,1,49.4
+Coimbatore (Pilamedu),May,1948-2000,53,1,68.8
+Coimbatore (Pilamedu),June,1948-2000,53,1,84.4
+Coimbatore (Pilamedu),July,1948-2000,53,1,34.3
+Coimbatore (Pilamedu),August,1948-2000,53,1,28.4
+Coimbatore (Pilamedu),September,1948-2000,53,1,57.3
+Coimbatore (Pilamedu),October,1948-2000,53,1,136.7
+Coimbatore (Pilamedu),November,1948-2000,53,1,119.3
+Coimbatore (Pilamedu),December,1948-2000,53,1,40.8
+Cooch Behar,January,1901-2000,61,1,8.3
+Cooch Behar,February,1901-2000,61,1,13.1
+Cooch Behar,March,1901-2000,61,1,40.7
+Cooch Behar,April,1901-2000,61,1,127.9
+Cooch Behar,May,1901-2000,61,1,377.6
+Cooch Behar,June,1901-2000,61,1,766.8
+Cooch Behar,July,1901-2000,61,1,813.4
+Cooch Behar,August,1901-2000,61,1,620.5
+Cooch Behar,September,1901-2000,61,1,519.0
+Cooch Behar,October,1901-2000,61,1,179.8
+Cooch Behar,November,1901-2000,61,1,9.7
+Cooch Behar,December,1901-2000,61,1,4.0
+Darjeeling,January,1901-2000,97,1,19.7
+Darjeeling,February,1901-2000,97,1,24.1
+Darjeeling,March,1901-2000,97,1,47.7
+Darjeeling,April,1901-2000,97,1,115.8
+Darjeeling,May,1901-2000,97,1,197.2
+Darjeeling,June,1901-2000,97,1,570.0
+Darjeeling,July,1901-2000,97,1,781.7
+Darjeeling,August,1901-2000,97,1,635.3
+Darjeeling,September,1901-2000,97,1,437.3
+Darjeeling,October,1901-2000,97,1,122.5
+Darjeeling,November,1901-2000,97,1,23.5
+Darjeeling,December,1901-2000,97,1,7.0
+Dehra Dun,January,1901-2000,84,1,55.0
+Dehra Dun,February,1901-2000,84,1,58.8
+Dehra Dun,March,1901-2000,84,1,49.0
+Dehra Dun,April,1901-2000,84,1,22.5
+Dehra Dun,May,1901-2000,84,1,41.7
+Dehra Dun,June,1901-2000,84,1,201.8
+Dehra Dun,July,1901-2000,84,1,672.6
+Dehra Dun,August,1901-2000,84,1,728.2
+Dehra Dun,September,1901-2000,84,1,296.5
+Dehra Dun,October,1901-2000,84,1,49.8
+Dehra Dun,November,1901-2000,84,1,8.6
+Dehra Dun,December,1901-2000,84,1,24.4
+Dharmsala,January,1951-1998,48,1,119.7
+Dharmsala,February,1951-1998,48,1,108.2
+Dharmsala,March,1951-1998,48,1,241.7
+Dharmsala,April,1951-1998,48,1,58.3
+Dharmsala,May,1951-1998,48,1,64.2
+Dharmsala,June,1951-1998,48,1,222.7
+Dharmsala,July,1951-1998,48,1,876.9
+Dharmsala,August,1951-1998,48,1,864.6
+Dharmsala,September,1951-1998,48,1,375.8
+Dharmsala,October,1951-1998,48,1,55.8
+Dharmsala,November,1951-1998,48,1,20.8
+Dharmsala,December,1951-1998,48,1,54.9
+Dibrugarh/Mohanbari,January,1952-2000,49,1,32.0
+Dibrugarh/Mohanbari,February,1952-2000,49,1,78.5
+Dibrugarh/Mohanbari,March,1952-2000,49,1,109.7
+Dibrugarh/Mohanbari,April,1952-2000,49,1,218.7
+Dibrugarh/Mohanbari,May,1952-2000,49,1,316.0
+Dibrugarh/Mohanbari,June,1952-2000,49,1,419.5
+Dibrugarh/Mohanbari,July,1952-2000,49,1,520.9
+Dibrugarh/Mohanbari,August,1952-2000,49,1,443.8
+Dibrugarh/Mohanbari,September,1952-2000,49,1,333.1
+Dibrugarh/Mohanbari,October,1952-2000,49,1,143.4
+Dibrugarh/Mohanbari,November,1952-2000,49,1,24.7
+Dibrugarh/Mohanbari,December,1952-2000,49,1,18.0
+Gadag,January,1932-2000,69,0,2.2
+Gadag,February,1932-2000,69,0,1.6
+Gadag,March,1932-2000,69,1,6.2
+Gadag,April,1932-2000,69,1,37.2
+Gadag,May,1932-2000,69,1,77.6
+Gadag,June,1932-2000,69,1,81.6
+Gadag,July,1932-2000,69,1,71.6
+Gadag,August,1932-2000,69,1,86.7
+Gadag,September,1932-2000,69,1,126.6
+Gadag,October,1932-2000,69,1,121.1
+Gadag,November,1932-2000,69,1,36.6
+Gadag,December,1932-2000,69,1,8.6
+Gangtok,January,1966-2000,35,1,31.9
+Gangtok,February,1966-2000,35,1,79.4
+Gangtok,March,1966-2000,35,1,122.2
+Gangtok,April,1966-2000,35,1,270.9
+Gangtok,May,1966-2000,35,1,527.7
+Gangtok,June,1966-2000,35,1,611.3
+Gangtok,July,1966-2000,35,1,628.6
+Gangtok,August,1966-2000,35,1,563.2
+Gangtok,September,1966-2000,35,1,463.4
+Gangtok,October,1966-2000,35,1,177.9
+Gangtok,November,1966-2000,35,1,41.7
+Gangtok,December,1966-2000,35,1,21.1
+Gaya,January,1901-1999,98,1,20.1
+Gaya,February,1901-1999,98,1,19.0
+Gaya,March,1901-1999,98,1,11.7
+Gaya,April,1901-1999,98,1,7.5
+Gaya,May,1901-1999,98,1,21.3
+Gaya,June,1901-1999,98,1,137.3
+Gaya,July,1901-1999,98,1,313.9
+Gaya,August,1901-1999,98,1,327.6
+Gaya,September,1901-1999,98,1,205.7
+Gaya,October,1901-1999,98,1,52.6
+Gaya,November,1901-1999,98,1,10.0
+Gaya,December,1901-1999,98,1,3.6
+Gopalpur,January,1901-2000,98,1,11.0
+Gopalpur,February,1901-2000,98,1,23.6
+Gopalpur,March,1901-2000,98,1,18.1
+Gopalpur,April,1901-2000,98,1,20.3
+Gopalpur,May,1901-2000,98,1,53.8
+Gopalpur,June,1901-2000,98,1,138.1
+Gopalpur,July,1901-2000,98,1,174.6
+Gopalpur,August,1901-2000,98,1,195.9
+Gopalpur,September,1901-2000,98,1,192.0
+Gopalpur,October,1901-2000,98,1,237.8
+Gopalpur,November,1901-2000,98,1,95.3
+Gopalpur,December,1901-2000,98,1,11.4
+Gorakhpur,January,1901-2000,96,1,14.2
+Gorakhpur,February,1901-2000,96,1,15.2
+Gorakhpur,March,1901-2000,96,1,9.4
+Gorakhpur,April,1901-2000,96,1,11.7
+Gorakhpur,May,1901-2000,96,1,36.1
+Gorakhpur,June,1901-2000,96,1,166.7
+Gorakhpur,July,1901-2000,96,1,342.7
+Gorakhpur,August,1901-2000,96,1,339.1
+Gorakhpur,September,1901-2000,96,1,232.3
+Gorakhpur,October,1901-2000,96,1,60.4
+Gorakhpur,November,1901-2000,96,1,4.9
+Gorakhpur,December,1901-2000,96,1,6.2
+Gulbarga,January,1901-2000,98,1,5.0
+Gulbarga,February,1901-2000,98,1,5.6
+Gulbarga,March,1901-2000,98,1,7.9
+Gulbarga,April,1901-2000,98,1,18.6
+Gulbarga,May,1901-2000,98,1,35.5
+Gulbarga,June,1901-2000,98,1,107.3
+Gulbarga,July,1901-2000,98,1,136.8
+Gulbarga,August,1901-2000,98,1,140.1
+Gulbarga,September,1901-2000,98,1,190.1
+Gulbarga,October,1901-2000,98,1,80.7
+Gulbarga,November,1901-2000,98,1,26.8
+Gulbarga,December,1901-2000,98,1,5.1
+Guwahati (Bhorjar),January,1951-2000,50,1,11.8
+Guwahati (Bhorjar),February,1951-2000,50,1,17.2
+Guwahati (Bhorjar),March,1951-2000,50,1,55.1
+Guwahati (Bhorjar),April,1951-2000,50,1,147.0
+Guwahati (Bhorjar),May,1951-2000,50,1,248.9
+Guwahati (Bhorjar),June,1951-2000,50,1,316.8
+Guwahati (Bhorjar),July,1951-2000,50,1,351.2
+Guwahati (Bhorjar),August,1951-2000,50,1,269.4
+Guwahati (Bhorjar),September,1951-2000,50,1,187.0
+Guwahati (Bhorjar),October,1951-2000,50,1,90.9
+Guwahati (Bhorjar),November,1951-2000,50,1,18.5
+Guwahati (Bhorjar),December,1951-2000,50,1,7.3
+Gwalior,January,1951-2000,50,1,14.4
+Gwalior,February,1951-2000,50,1,10.0
+Gwalior,March,1951-2000,50,1,6.5
+Gwalior,April,1951-2000,50,1,4.5
+Gwalior,May,1951-2000,50,1,11.2
+Gwalior,June,1951-2000,50,1,67.5
+Gwalior,July,1951-2000,50,1,248.8
+Gwalior,August,1951-2000,50,1,274.4
+Gwalior,September,1951-2000,50,1,151.2
+Gwalior,October,1951-2000,50,1,40.7
+Gwalior,November,1951-2000,50,1,5.8
+Gwalior,December,1951-2000,50,1,7.0
+Hassan,January,1901-2000,100,1,2.6
+Hassan,February,1901-2000,100,1,5.0
+Hassan,March,1901-2000,100,1,11.5
+Hassan,April,1901-2000,100,1,56.7
+Hassan,May,1901-2000,100,1,104.9
+Hassan,June,1901-2000,100,1,88.7
+Hassan,July,1901-2000,100,1,147.9
+Hassan,August,1901-2000,100,1,94.2
+Hassan,September,1901-2000,100,1,106.5
+Hassan,October,1901-2000,100,1,156.1
+Hassan,November,1901-2000,100,1,64.1
+Hassan,December,1901-2000,100,1,14.6
+Hissar,January,1914-2000,87,1,14.8
+Hissar,February,1914-2000,87,1,15.2
+Hissar,March,1914-2000,87,1,14.0
+Hissar,April,1914-2000,87,1,8.9
+Hissar,May,1914-2000,87,1,17.3
+Hissar,June,1914-2000,87,1,39.7
+Hissar,July,1914-2000,87,1,133.1
+Hissar,August,1914-2000,87,1,130.6
+Hissar,September,1914-2000,87,1,74.5
+Hissar,October,1914-2000,87,1,29.2
+Hissar,November,1914-2000,87,1,3.2
+Hissar,December,1914-2000,87,1,10.2
+Hyderabad (A),January,1951-2000,50,1,13.2
+Hyderabad (A),February,1951-2000,50,1,7.9
+Hyderabad (A),March,1951-2000,50,1,15.3
+Hyderabad (A),April,1951-2000,50,1,20.2
+Hyderabad (A),May,1951-2000,50,1,35.7
+Hyderabad (A),June,1951-2000,50,1,103.8
+Hyderabad (A),July,1951-2000,50,1,169.9
+Hyderabad (A),August,1951-2000,50,1,178.7
+Hyderabad (A),September,1951-2000,50,1,158.3
+Hyderabad (A),October,1951-2000,50,1,97.2
+Hyderabad (A),November,1951-2000,50,1,22.4
+Hyderabad (A),December,1951-2000,50,1,5.9
+Imphal/Tulihal,January,1953-1998,45,1,12.2
+Imphal/Tulihal,February,1953-1998,45,1,37.5
+Imphal/Tulihal,March,1953-1998,45,1,84.5
+Imphal/Tulihal,April,1953-1998,45,1,120.1
+Imphal/Tulihal,May,1953-1998,45,1,154.2
+Imphal/Tulihal,June,1953-1998,45,1,262.1
+Imphal/Tulihal,July,1953-1998,45,1,407.3
+Imphal/Tulihal,August,1953-1998,45,1,198.7
+Imphal/Tulihal,September,1953-1998,45,1,131.5
+Imphal/Tulihal,October,1953-1998,45,1,112.1
+Imphal/Tulihal,November,1953-1998,45,1,48.1
+Imphal/Tulihal,December,1953-1998,45,1,14.0
+Indore,January,1949-2000,52,1,7.7
+Indore,February,1949-2000,52,0,2.5
+Indore,March,1949-2000,52,0,2.4
+Indore,April,1949-2000,52,0,2.4
+Indore,May,1949-2000,52,1,10.6
+Indore,June,1949-2000,52,1,131.9
+Indore,July,1949-2000,52,1,283.7
+Indore,August,1949-2000,52,1,276.9
+Indore,September,1949-2000,52,1,183.1
+Indore,October,1949-2000,52,1,40.1
+Indore,November,1949-2000,52,1,13.3
+Indore,December,1949-2000,52,1,6.3
+Jabalpur,January,1901-2000,100,1,22.2
+Jabalpur,February,1901-2000,100,1,23.4
+Jabalpur,March,1901-2000,100,1,15.5
+Jabalpur,April,1901-2000,100,1,7.7
+Jabalpur,May,1901-2000,100,1,12.9
+Jabalpur,June,1901-2000,100,1,167.3
+Jabalpur,July,1901-2000,100,1,421.9
+Jabalpur,August,1901-2000,100,1,422.9
+Jabalpur,September,1901-2000,100,1,200.1
+Jabalpur,October,1901-2000,100,1,39.9
+Jabalpur,November,1901-2000,100,1,15.0
+Jabalpur,December,1901-2000,100,1,9.9
+Jagdalpur,January,1909-2000,92,1,9.1
+Jagdalpur,February,1909-2000,92,1,15.6
+Jagdalpur,March,1909-2000,92,1,16.0
+Jagdalpur,April,1909-2000,92,1,51.1
+Jagdalpur,May,1909-2000,92,1,73.2
+Jagdalpur,June,1909-2000,92,1,239.6
+Jagdalpur,July,1909-2000,92,1,369.4
+Jagdalpur,August,1909-2000,92,1,377.5
+Jagdalpur,September,1909-2000,92,1,236.9
+Jagdalpur,October,1909-2000,92,1,101.1
+Jagdalpur,November,1909-2000,92,1,24.3
+Jagdalpur,December,1909-2000,92,1,7.7
+Jaipur (Sanganer),January,1952-2000,49,1,7.5
+Jaipur (Sanganer),February,1952-2000,49,1,10.2
+Jaipur (Sanganer),March,1952-2000,49,1,4.5
+Jaipur (Sanganer),April,1952-2000,49,1,8.3
+Jaipur (Sanganer),May,1952-2000,49,1,16.7
+Jaipur (Sanganer),June,1952-2000,49,1,54.7
+Jaipur (Sanganer),July,1952-2000,49,1,214.0
+Jaipur (Sanganer),August,1952-2000,49,1,213.6
+Jaipur (Sanganer),September,1952-2000,49,1,69.4
+Jaipur (Sanganer),October,1952-2000,49,1,23.3
+Jaipur (Sanganer),November,1952-2000,49,1,4.2
+Jaipur (Sanganer),December,1952-2000,49,1,3.0
+Jaisalmer,January,1948-2000,43,0,1.5
+Jaisalmer,February,1948-2000,43,1,3.0
+Jaisalmer,March,1948-2000,43,1,2.7
+Jaisalmer,April,1948-2000,43,1,21.0
+Jaisalmer,May,1948-2000,43,1,8.9
+Jaisalmer,June,1948-2000,43,1,15.1
+Jaisalmer,July,1948-2000,43,1,60.1
+Jaisalmer,August,1948-2000,43,1,75.8
+Jaisalmer,September,1948-2000,43,1,17.6
+Jaisalmer,October,1948-2000,43,0,2.4
+Jaisalmer,November,1948-2000,43,0,1.5
+Jaisalmer,December,1948-2000,43,0,2.4
+Jammu,January,1925-2000,62,1,60.7
+Jammu,February,1925-2000,62,1,62.8
+Jammu,March,1925-2000,62,1,59.9
+Jammu,April,1925-2000,62,1,35.7
+Jammu,May,1925-2000,62,1,25.6
+Jammu,June,1925-2000,62,1,72.7
+Jammu,July,1925-2000,62,1,349.6
+Jammu,August,1925-2000,62,1,319.1
+Jammu,September,1925-2000,62,1,139.8
+Jammu,October,1925-2000,62,1,23.8
+Jammu,November,1925-2000,62,1,10.3
+Jammu,December,1925-2000,62,1,33.0
+Jamshedpur,January,1951-1999,43,1,14.0
+Jamshedpur,February,1951-1999,43,1,25.7
+Jamshedpur,March,1951-1999,43,1,26.1
+Jamshedpur,April,1951-1999,43,1,37.5
+Jamshedpur,May,1951-1999,43,1,57.2
+Jamshedpur,June,1951-1999,43,1,205.3
+Jamshedpur,July,1951-1999,43,1,292.5
+Jamshedpur,August,1951-1999,43,1,306.5
+Jamshedpur,September,1951-1999,43,1,208.8
+Jamshedpur,October,1951-1999,43,1,82.2
+Jamshedpur,November,1951-1999,43,1,10.1
+Jamshedpur,December,1951-1999,43,1,6.1
+Jharsuguda,January,1951-2000,47,1,16.1
+Jharsuguda,February,1951-2000,47,1,19.7
+Jharsuguda,March,1951-2000,47,1,18.0
+Jharsuguda,April,1951-2000,47,1,18.0
+Jharsuguda,May,1951-2000,47,1,36.1
+Jharsuguda,June,1951-2000,47,1,211.8
+Jharsuguda,July,1951-2000,47,1,377.3
+Jharsuguda,August,1951-2000,47,1,405.5
+Jharsuguda,September,1951-2000,47,1,278.4
+Jharsuguda,October,1951-2000,47,1,61.7
+Jharsuguda,November,1951-2000,47,1,10.4
+Jharsuguda,December,1951-2000,47,1,7.9
+Jodhpur,January,1901-2000,100,1,10.2
+Jodhpur,February,1901-2000,100,1,4.8
+Jodhpur,March,1901-2000,100,1,3.9
+Jodhpur,April,1901-2000,100,1,5.1
+Jodhpur,May,1901-2000,100,1,66.1
+Jodhpur,June,1901-2000,100,1,35.1
+Jodhpur,July,1901-2000,100,1,120.8
+Jodhpur,August,1901-2000,100,1,128.9
+Jodhpur,September,1901-2000,100,1,57.6
+Jodhpur,October,1901-2000,100,1,8.1
+Jodhpur,November,1901-2000,100,1,2.6
+Jodhpur,December,1901-2000,100,0,1.6
+Joshimath,January,1958-1987,29,1,65.3
+Joshimath,February,1958-1987,29,1,98.0
+Joshimath,March,1958-1987,29,1,114.3
+Joshimath,April,1958-1987,29,1,64.0
+Joshimath,May,1958-1987,29,1,71.3
+Joshimath,June,1958-1987,29,1,132.3
+Joshimath,July,1958-1987,29,1,247.4
+Joshimath,August,1958-1987,29,1,222.4
+Joshimath,September,1958-1987,29,1,104.8
+Joshimath,October,1958-1987,29,1,45.1
+Joshimath,November,1958-1987,29,1,15.4
+Joshimath,December,1958-1987,29,1,25.0
+Jullundur,January,1970-1999,14,1,10.7
+Jullundur,February,1970-1999,14,1,16.7
+Jullundur,March,1970-1999,14,1,32.8
+Jullundur,April,1970-1999,14,1,15.2
+Jullundur,May,1970-1999,14,1,20.4
+Jullundur,June,1970-1999,14,1,69.7
+Jullundur,July,1970-1999,14,1,155.2
+Jullundur,August,1970-1999,14,1,183.6
+Jullundur,September,1970-1999,14,1,60.0
+Jullundur,October,1970-1999,14,0,1.5
+Jullundur,November,1970-1999,14,1,3.5
+Jullundur,December,1970-1999,14,1,9.7
+Kanpur (A),January,1901-1995,84,1,15.4
+Kanpur (A),February,1901-1995,84,1,16.4
+Kanpur (A),March,1901-1995,84,1,7.9
+Kanpur (A),April,1901-1995,84,1,5.3
+Kanpur (A),May,1901-1995,84,1,8.4
+Kanpur (A),June,1901-1995,84,1,66.3
+Kanpur (A),July,1901-1995,84,1,244.6
+Kanpur (A),August,1901-1995,84,1,273.2
+Kanpur (A),September,1901-1995,84,1,161.7
+Kanpur (A),October,1901-1995,84,1,40.0
+Kanpur (A),November,1901-1995,84,1,4.6
+Kanpur (A),December,1901-1995,84,1,7.1
+Kanyakumari,January,1961-2000,40,1,13.4
+Kanyakumari,February,1961-2000,40,1,13.5
+Kanyakumari,March,1961-2000,40,1,23.3
+Kanyakumari,April,1961-2000,40,1,64.5
+Kanyakumari,May,1961-2000,40,1,51.2
+Kanyakumari,June,1961-2000,40,1,87.8
+Kanyakumari,July,1961-2000,40,1,47.0
+Kanyakumari,August,1961-2000,40,1,41.4
+Kanyakumari,September,1961-2000,40,1,38.9
+Kanyakumari,October,1961-2000,40,1,127.5
+Kanyakumari,November,1961-2000,40,1,165.3
+Kanyakumari,December,1961-2000,40,1,61.1
+Karnal,January,1949-1999,50,1,26.9
+Karnal,February,1949-1999,50,1,17.5
+Karnal,March,1949-1999,50,1,18.6
+Karnal,April,1949-1999,50,1,6.7
+Karnal,May,1949-1999,50,1,9.8
+Karnal,June,1949-1999,50,1,50.7
+Karnal,July,1949-1999,50,1,194.8
+Karnal,August,1949-1999,50,1,221.5
+Karnal,September,1949-1999,50,1,93.3
+Karnal,October,1949-1999,50,1,21.7
+Karnal,November,1949-1999,50,1,4.7
+Karnal,December,1949-1999,50,1,9.7
+Khajuraho,January,1970-2000,30,1,20.8
+Khajuraho,February,1970-2000,30,1,28.2
+Khajuraho,March,1970-2000,30,1,8.3
+Khajuraho,April,1970-2000,30,1,5.4
+Khajuraho,May,1970-2000,30,1,9.4
+Khajuraho,June,1970-2000,30,1,100.0
+Khajuraho,July,1970-2000,30,1,322.8
+Khajuraho,August,1970-2000,30,1,401.2
+Khajuraho,September,1970-2000,30,1,187.8
+Khajuraho,October,1970-2000,30,1,37.3
+Khajuraho,November,1970-2000,30,1,8.5
+Khajuraho,December,1970-2000,30,1,4.8
+Kodaikanal,January,1901-2000,100,1,59.1
+Kodaikanal,February,1901-2000,100,1,34.6
+Kodaikanal,March,1901-2000,100,1,52.6
+Kodaikanal,April,1901-2000,100,1,136.0
+Kodaikanal,May,1901-2000,100,1,146.1
+Kodaikanal,June,1901-2000,100,1,97.7
+Kodaikanal,July,1901-2000,100,1,122.1
+Kodaikanal,August,1901-2000,100,1,153.1
+Kodaikanal,September,1901-2000,100,1,185.6
+Kodaikanal,October,1901-2000,100,1,253.9
+Kodaikanal,November,1901-2000,100,1,235.0
+Kodaikanal,December,1901-2000,100,1,141.4
+Kohima,January,1952-1992,33,1,11.7
+Kohima,February,1952-1992,33,1,35.4
+Kohima,March,1952-1992,33,1,47.6
+Kohima,April,1952-1992,33,1,88.7
+Kohima,May,1952-1992,33,1,159.2
+Kohima,June,1952-1992,33,1,333.8
+Kohima,July,1952-1992,33,1,371.8
+Kohima,August,1952-1992,33,1,364.0
+Kohima,September,1952-1992,33,1,250.1
+Kohima,October,1952-1992,33,1,126.0
+Kohima,November,1952-1992,33,1,35.2
+Kohima,December,1952-1992,33,1,7.8
+Kolkata (Alipur),January,1901-2000,100,1,13.3
+Kolkata (Alipur),February,1901-2000,100,1,25.6
+Kolkata (Alipur),March,1901-2000,100,1,33.3
+Kolkata (Alipur),April,1901-2000,100,1,51.2
+Kolkata (Alipur),May,1901-2000,100,1,126.2
+Kolkata (Alipur),June,1901-2000,100,1,282.4
+Kolkata (Alipur),July,1901-2000,100,1,339.8
+Kolkata (Alipur),August,1901-2000,100,1,333.2
+Kolkata (Alipur),September,1901-2000,100,1,277.2
+Kolkata (Alipur),October,1901-2000,100,1,138.9
+Kolkata (Alipur),November,1901-2000,100,1,23.9
+Kolkata (Alipur),December,1901-2000,100,1,6.4
+Kota (A),January,1961-2000,40,1,5.4
+Kota (A),February,1961-2000,40,1,4.4
+Kota (A),March,1961-2000,40,1,4.0
+Kota (A),April,1961-2000,40,1,3.2
+Kota (A),May,1961-2000,40,1,10.3
+Kota (A),June,1961-2000,40,1,62.9
+Kota (A),July,1961-2000,40,1,257.0
+Kota (A),August,1961-2000,40,1,245.8
+Kota (A),September,1961-2000,40,1,98.5
+Kota (A),October,1961-2000,40,1,19.6
+Kota (A),November,1961-2000,40,1,7.8
+Kota (A),December,1961-2000,40,1,3.5
+Kozhikode (A),January,1996-2000,5,1,7.4
+Kozhikode (A),February,1996-2000,5,1,3.3
+Kozhikode (A),March,1996-2000,5,1,23.4
+Kozhikode (A),April,1996-2000,5,1,73.8
+Kozhikode (A),May,1996-2000,5,1,189.7
+Kozhikode (A),June,1996-2000,5,1,736.4
+Kozhikode (A),July,1996-2000,5,1,789.3
+Kozhikode (A),August,1996-2000,5,1,395.5
+Kozhikode (A),September,1996-2000,5,1,237.4
+Kozhikode (A),October,1996-2000,5,1,400.9
+Kozhikode (A),November,1996-2000,5,1,158.5
+Kozhikode (A),December,1996-2000,5,1,119.9
+Lucknow (Amausi),January,1952-2000,49,1,19.1
+Lucknow (Amausi),February,1952-2000,49,1,17.6
+Lucknow (Amausi),March,1952-2000,49,1,8.7
+Lucknow (Amausi),April,1952-2000,49,1,5.8
+Lucknow (Amausi),May,1952-2000,49,1,18.8
+Lucknow (Amausi),June,1952-2000,49,1,103.2
+Lucknow (Amausi),July,1952-2000,49,1,277.4
+Lucknow (Amausi),August,1952-2000,49,1,284.0
+Lucknow (Amausi),September,1952-2000,49,1,201.4
+Lucknow (Amausi),October,1952-2000,49,1,49.0
+Lucknow (Amausi),November,1952-2000,49,1,8.0
+Lucknow (Amausi),December,1952-2000,49,1,16.4
+Ludhiana,January,1901-1984,84,1,30.6
+Ludhiana,February,1901-1984,84,1,34.1
+Ludhiana,March,1901-1984,84,1,28.7
+Ludhiana,April,1901-1984,84,1,14.9
+Ludhiana,May,1901-1984,84,1,14.7
+Ludhiana,June,1901-1984,84,1,52.0
+Ludhiana,July,1901-1984,84,1,200.2
+Ludhiana,August,1901-1984,84,1,174.3
+Ludhiana,September,1901-1984,84,1,108.4
+Ludhiana,October,1901-1984,84,1,19.8
+Ludhiana,November,1901-1984,84,1,5.4
+Ludhiana,December,1901-1984,84,1,15.6
+Madurai (A),January,1958-2000,43,1,16.1
+Madurai (A),February,1958-2000,43,1,8.6
+Madurai (A),March,1958-2000,43,1,12.3
+Madurai (A),April,1958-2000,43,1,47.8
+Madurai (A),May,1958-2000,43,1,68.8
+Madurai (A),June,1958-2000,43,1,42.9
+Madurai (A),July,1958-2000,43,1,59.1
+Madurai (A),August,1958-2000,43,1,84.9
+Madurai (A),September,1958-2000,43,1,124.5
+Madurai (A),October,1958-2000,43,1,172.5
+Madurai (A),November,1958-2000,43,1,146.6
+Madurai (A),December,1958-2000,43,1,58.5
+Mahabaleshwar,January,1932-2000,69,0,1.7
+Mahabaleshwar,February,1932-2000,69,0,1.0
+Mahabaleshwar,March,1932-2000,69,1,6.1
+Mahabaleshwar,April,1932-2000,69,1,24.6
+Mahabaleshwar,May,1932-2000,69,1,58.4
+Mahabaleshwar,June,1932-2000,69,1,874.4
+Mahabaleshwar,July,1932-2000,69,1,2344.7
+Mahabaleshwar,August,1932-2000,69,1,1711.4
+Mahabaleshwar,September,1932-2000,69,1,601.9
+Mahabaleshwar,October,1932-2000,69,1,150.8
+Mahabaleshwar,November,1932-2000,69,1,41.0
+Mahabaleshwar,December,1932-2000,69,1,11.2
+Malda,January,1901-1999,78,1,11.9
+Malda,February,1901-1999,78,1,16.1
+Malda,March,1901-1999,78,1,15.1
+Malda,April,1901-1999,78,1,29.6
+Malda,May,1901-1999,78,1,109.6
+Malda,June,1901-1999,78,1,218.9
+Malda,July,1901-1999,78,1,307.5
+Malda,August,1901-1999,78,1,289.4
+Malda,September,1901-1999,78,1,275.9
+Malda,October,1901-1999,78,1,105.6
+Malda,November,1901-1999,78,1,12.1
+Malda,December,1901-1999,78,1,4.4
+Manali,January,1968-2000,32,1,128.9
+Manali,February,1968-2000,32,1,124.3
+Manali,March,1968-2000,32,1,189.6
+Manali,April,1968-2000,32,1,103.7
+Manali,May,1968-2000,32,1,82.5
+Manali,June,1968-2000,32,1,74.3
+Manali,July,1968-2000,32,1,217.5
+Manali,August,1968-2000,32,1,205.4
+Manali,September,1968-2000,32,1,111.9
+Manali,October,1968-2000,32,1,37.9
+Manali,November,1968-2000,32,1,31.7
+Manali,December,1968-2000,32,1,56.1
+Mangalore (Bajpe),January,1956-2000,45,0,1.1
+Mangalore (Bajpe),February,1956-2000,45,0,0.2
+Mangalore (Bajpe),March,1956-2000,45,1,2.9
+Mangalore (Bajpe),April,1956-2000,45,1,24.4
+Mangalore (Bajpe),May,1956-2000,45,1,183.2
+Mangalore (Bajpe),June,1956-2000,45,1,1027.2
+Mangalore (Bajpe),July,1956-2000,45,1,1200.4
+Mangalore (Bajpe),August,1956-2000,45,1,787.3
+Mangalore (Bajpe),September,1956-2000,45,1,292.1
+Mangalore (Bajpe),October,1956-2000,45,1,190.8
+Mangalore (Bajpe),November,1956-2000,45,1,70.9
+Mangalore (Bajpe),December,1956-2000,45,1,16.4
+Masulipatnam,January,1901-2000,100,1,5.3
+Masulipatnam,February,1901-2000,100,1,12.3
+Masulipatnam,March,1901-2000,100,1,10.2
+Masulipatnam,April,1901-2000,100,1,14.4
+Masulipatnam,May,1901-2000,100,1,36.8
+Masulipatnam,June,1901-2000,100,1,103.4
+Masulipatnam,July,1901-2000,100,1,186.1
+Masulipatnam,August,1901-2000,100,1,164.1
+Masulipatnam,September,1901-2000,100,1,168.1
+Masulipatnam,October,1901-2000,100,1,223.4
+Masulipatnam,November,1901-2000,100,1,126.8
+Masulipatnam,December,1901-2000,100,1,19.9
+Minicoy,January,1901-2000,99,1,37.2
+Minicoy,February,1901-2000,99,1,23.9
+Minicoy,March,1901-2000,99,1,20.9
+Minicoy,April,1901-2000,99,1,57.2
+Minicoy,May,1901-2000,99,1,184.3
+Minicoy,June,1901-2000,99,1,298.6
+Minicoy,July,1901-2000,99,1,245.2
+Minicoy,August,1901-2000,99,1,212.0
+Minicoy,September,1901-2000,99,1,162.4
+Minicoy,October,1901-2000,99,1,176.7
+Minicoy,November,1901-2000,99,1,143.4
+Minicoy,December,1901-2000,99,1,83.4
+Mukteswar (Kumaun),January,1901-2000,100,1,54.5
+Mukteswar (Kumaun),February,1901-2000,100,1,56.5
+Mukteswar (Kumaun),March,1901-2000,100,1,49.7
+Mukteswar (Kumaun),April,1901-2000,100,1,35.3
+Mukteswar (Kumaun),May,1901-2000,100,1,58.3
+Mukteswar (Kumaun),June,1901-2000,100,1,157.2
+Mukteswar (Kumaun),July,1901-2000,100,1,307.4
+Mukteswar (Kumaun),August,1901-2000,100,1,299.4
+Mukteswar (Kumaun),September,1901-2000,100,1,202.3
+Mukteswar (Kumaun),October,1901-2000,100,1,60.9
+Mukteswar (Kumaun),November,1901-2000,100,1,8.8
+Mukteswar (Kumaun),December,1901-2000,100,1,23.1
+Mumbai (Santa Cruz),January,1951-2000,50,1,15.1
+Mumbai (Santa Cruz),February,1951-2000,50,0,1.0
+Mumbai (Santa Cruz),March,1951-2000,50,0,0.1
+Mumbai (Santa Cruz),April,1951-2000,50,0,0.5
+Mumbai (Santa Cruz),May,1951-2000,50,1,20.6
+Mumbai (Santa Cruz),June,1951-2000,50,1,504.2
+Mumbai (Santa Cruz),July,1951-2000,50,1,819.4
+Mumbai (Santa Cruz),August,1951-2000,50,1,546.8
+Mumbai (Santa Cruz),September,1951-2000,50,1,325.2
+Mumbai (Santa Cruz),October,1951-2000,50,1,81.1
+Mumbai (Santa Cruz),November,1951-2000,50,1,113.2
+Mumbai (Santa Cruz),December,1951-2000,50,1,4.1
+Mysore,January,1901-2000,100,1,4.8
+Mysore,February,1901-2000,100,1,5.1
+Mysore,March,1901-2000,100,1,11.6
+Mysore,April,1901-2000,100,1,62.4
+Mysore,May,1901-2000,100,1,145.7
+Mysore,June,1901-2000,100,1,67.3
+Mysore,July,1901-2000,100,1,74.3
+Mysore,August,1901-2000,100,1,78.6
+Mysore,September,1901-2000,100,1,117.6
+Mysore,October,1901-2000,100,1,158.7
+Mysore,November,1901-2000,100,1,63.8
+Mysore,December,1901-2000,100,1,14.3
+Nagpur (Sonegaon),January,1901-2000,100,1,12.5
+Nagpur (Sonegaon),February,1901-2000,100,1,20.7
+Nagpur (Sonegaon),March,1901-2000,100,1,17.6
+Nagpur (Sonegaon),April,1901-2000,100,1,14.3
+Nagpur (Sonegaon),May,1901-2000,100,1,19.2
+Nagpur (Sonegaon),June,1901-2000,100,1,190.1
+Nagpur (Sonegaon),July,1901-2000,100,1,341.7
+Nagpur (Sonegaon),August,1901-2000,100,1,280.5
+Nagpur (Sonegaon),September,1901-2000,100,1,183.1
+Nagpur (Sonegaon),October,1901-2000,100,1,56.8
+Nagpur (Sonegaon),November,1901-2000,100,1,16.6
+Nagpur (Sonegaon),December,1901-2000,100,1,13.2
+Nainital,January,1953-1979,27,1,80.3
+Nainital,February,1953-1979,27,1,60.4
+Nainital,March,1953-1979,27,1,55.7
+Nainital,April,1953-1979,27,1,33.7
+Nainital,May,1953-1979,27,1,73.8
+Nainital,June,1953-1979,27,1,327.5
+Nainital,July,1953-1979,27,1,725.0
+Nainital,August,1953-1979,27,1,553.4
+Nainital,September,1953-1979,27,1,385.0
+Nainital,October,1953-1979,27,1,135.4
+Nainital,November,1953-1979,27,1,7.9
+Nainital,December,1953-1979,27,1,27.6
+Nasik,January,1949-1990,36,0,1.3
+Nasik,February,1949-1990,36,0,0.6
+Nasik,March,1949-1990,36,1,5.1
+Nasik,April,1949-1990,36,1,8.0
+Nasik,May,1949-1990,36,1,18.5
+Nasik,June,1949-1990,36,1,100.8
+Nasik,July,1949-1990,36,1,201.7
+Nasik,August,1949-1990,36,1,136.7
+Nasik,September,1949-1990,36,1,145.0
+Nasik,October,1949-1990,36,1,56.9
+Nasik,November,1949-1990,36,1,24.1
+Nasik,December,1949-1990,36,1,6.6
+New Delhi (Palam),January,1956-2000,45,1,18.9
+New Delhi (Palam),February,1956-2000,45,1,16.6
+New Delhi (Palam),March,1956-2000,45,1,10.8
+New Delhi (Palam),April,1956-2000,45,1,30.4
+New Delhi (Palam),May,1956-2000,45,1,29.0
+New Delhi (Palam),June,1956-2000,45,1,54.3
+New Delhi (Palam),July,1956-2000,45,1,216.8
+New Delhi (Palam),August,1956-2000,45,1,247.6
+New Delhi (Palam),September,1956-2000,45,1,133.8
+New Delhi (Palam),October,1956-2000,45,1,15.4
+New Delhi (Palam),November,1956-2000,45,1,6.6
+New Delhi (Palam),December,1956-2000,45,1,15.2
+New Delhi (SFD),January,1901-2000,100,1,20.9
+New Delhi (SFD),February,1901-2000,100,1,21.0
+New Delhi (SFD),March,1901-2000,100,1,14.5
+New Delhi (SFD),April,1901-2000,100,1,10.7
+New Delhi (SFD),May,1901-2000,100,1,14.1
+New Delhi (SFD),June,1901-2000,100,1,66.3
+New Delhi (SFD),July,1901-2000,100,1,198.4
+New Delhi (SFD),August,1901-2000,100,1,206.5
+New Delhi (SFD),September,1901-2000,100,1,130.3
+New Delhi (SFD),October,1901-2000,100,1,20.8
+New Delhi (SFD),November,1901-2000,100,1,3.9
+New Delhi (SFD),December,1901-2000,100,1,8.8
+Palakkad (Palghat),January,1943-2000,58,1,3.5
+Palakkad (Palghat),February,1943-2000,58,1,6.7
+Palakkad (Palghat),March,1943-2000,58,1,20.4
+Palakkad (Palghat),April,1943-2000,58,1,72.9
+Palakkad (Palghat),May,1943-2000,58,1,151.7
+Palakkad (Palghat),June,1943-2000,58,1,408.2
+Palakkad (Palghat),July,1943-2000,58,1,522.6
+Palakkad (Palghat),August,1943-2000,58,1,317.6
+Palakkad (Palghat),September,1943-2000,58,1,253.9
+Palakkad (Palghat),October,1943-2000,58,1,215.2
+Palakkad (Palghat),November,1943-2000,58,1,111.1
+Palakkad (Palghat),December,1943-2000,58,1,27.6
+Panjim,January,1901-2000,50,0,0.9
+Panjim,February,1901-2000,50,0,0.1
+Panjim,March,1901-2000,50,0,0.4
+Panjim,April,1901-2000,50,1,10.2
+Panjim,May,1901-2000,50,1,66.7
+Panjim,June,1901-2000,50,1,874.0
+Panjim,July,1901-2000,50,1,949.5
+Panjim,August,1901-2000,50,1,515.9
+Panjim,September,1901-2000,50,1,231.0
+Panjim,October,1901-2000,50,1,102.6
+Panjim,November,1901-2000,50,1,30.2
+Panjim,December,1901-2000,50,1,8.8
+Parbhani,January,1944-2000,57,1,6.1
+Parbhani,February,1944-2000,57,1,4.2
+Parbhani,March,1944-2000,57,1,11.2
+Parbhani,April,1944-2000,57,1,7.9
+Parbhani,May,1944-2000,57,1,19.1
+Parbhani,June,1944-2000,57,1,148.4
+Parbhani,July,1944-2000,57,1,237.6
+Parbhani,August,1944-2000,57,1,214.7
+Parbhani,September,1944-2000,57,1,183.2
+Parbhani,October,1944-2000,57,1,72.2
+Parbhani,November,1944-2000,57,1,20.5
+Parbhani,December,1944-2000,57,1,8.6
+Pasighat,January,1957-1992,35,1,50.9
+Pasighat,February,1957-1992,35,1,99.0
+Pasighat,March,1957-1992,35,1,131.2
+Pasighat,April,1957-1992,35,1,258.9
+Pasighat,May,1957-1992,35,1,385.4
+Pasighat,June,1957-1992,35,1,804.5
+Pasighat,July,1957-1992,35,1,1053.9
+Pasighat,August,1957-1992,35,1,755.0
+Pasighat,September,1957-1992,35,1,587.1
+Pasighat,October,1957-1992,35,1,244.2
+Pasighat,November,1957-1992,35,1,33.2
+Pasighat,December,1957-1992,35,1,28.0
+Patna (A),January,1951-2000,50,1,20.4
+Patna (A),February,1951-2000,50,1,11.1
+Patna (A),March,1951-2000,50,1,11.4
+Patna (A),April,1951-2000,50,1,9.0
+Patna (A),May,1951-2000,50,1,35.6
+Patna (A),June,1951-2000,50,1,141.0
+Patna (A),July,1951-2000,50,1,319.2
+Patna (A),August,1951-2000,50,1,279.3
+Patna (A),September,1951-2000,50,1,212.6
+Patna (A),October,1951-2000,50,1,72.3
+Patna (A),November,1951-2000,50,1,8.2
+Patna (A),December,1951-2000,50,1,7.4
+Pondicherry (A),January,1996-2000,5,1,14.8
+Pondicherry (A),February,1996-2000,5,1,47.7
+Pondicherry (A),March,1996-2000,5,0,0.0
+Pondicherry (A),April,1996-2000,5,1,37.3
+Pondicherry (A),May,1996-2000,5,1,29.7
+Pondicherry (A),June,1996-2000,5,1,79.6
+Pondicherry (A),July,1996-2000,5,1,61.0
+Pondicherry (A),August,1996-2000,5,1,148.2
+Pondicherry (A),September,1996-2000,5,1,149.6
+Pondicherry (A),October,1996-2000,5,1,278.3
+Pondicherry (A),November,1996-2000,5,1,379.5
+Pondicherry (A),December,1996-2000,5,1,502.3
+Port Blair,January,1901-2000,97,1,46.4
+Port Blair,February,1901-2000,97,1,26.5
+Port Blair,March,1901-2000,97,1,29.3
+Port Blair,April,1901-2000,97,1,69.0
+Port Blair,May,1901-2000,97,1,360.4
+Port Blair,June,1901-2000,97,1,501.1
+Port Blair,July,1901-2000,97,1,423.7
+Port Blair,August,1901-2000,97,1,425.1
+Port Blair,September,1901-2000,97,1,463.0
+Port Blair,October,1901-2000,97,1,300.7
+Port Blair,November,1901-2000,97,1,235.0
+Port Blair,December,1901-2000,97,1,154.6
+Pune,January,1901-2000,100,0,1.6
+Pune,February,1901-2000,100,0,1.1
+Pune,March,1901-2000,100,1,2.7
+Pune,April,1901-2000,100,1,13.6
+Pune,May,1901-2000,100,1,33.3
+Pune,June,1901-2000,100,1,120.4
+Pune,July,1901-2000,100,1,179.0
+Pune,August,1901-2000,100,1,106.4
+Pune,September,1901-2000,100,1,129.1
+Pune,October,1901-2000,100,1,78.8
+Pune,November,1901-2000,100,1,28.6
+Pune,December,1901-2000,100,1,5.3
+Raipur,January,1901-1998,97,1,11.7
+Raipur,February,1901-1998,97,1,21.0
+Raipur,March,1901-1998,97,1,19.6
+Raipur,April,1901-1998,97,1,15.5
+Raipur,May,1901-1998,97,1,22.9
+Raipur,June,1901-1998,97,1,209.4
+Raipur,July,1901-1998,97,1,369.1
+Raipur,August,1901-1998,97,1,365.4
+Raipur,September,1901-1998,97,1,216.6
+Raipur,October,1901-1998,97,1,52.1
+Raipur,November,1901-1998,97,1,11.4
+Raipur,December,1901-1998,97,1,4.2
+Rajkot (A),January,1905-2000,49,0,1.0
+Rajkot (A),February,1905-2000,49,0,1.0
+Rajkot (A),March,1905-2000,49,0,1.0
+Rajkot (A),April,1905-2000,49,0,1.6
+Rajkot (A),May,1905-2000,49,1,3.9
+Rajkot (A),June,1905-2000,49,1,98.9
+Rajkot (A),July,1905-2000,49,1,242.5
+Rajkot (A),August,1905-2000,49,1,174.3
+Rajkot (A),September,1905-2000,49,1,101.0
+Rajkot (A),October,1905-2000,49,1,53.2
+Rajkot (A),November,1905-2000,49,1,10.0
+Rajkot (A),December,1905-2000,49,0,0.8
+Ranchi (A),January,1951-2000,40,1,20.5
+Ranchi (A),February,1951-2000,40,1,25.7
+Ranchi (A),March,1951-2000,40,1,18.9
+Ranchi (A),April,1951-2000,40,1,41.2
+Ranchi (A),May,1951-2000,40,1,58.5
+Ranchi (A),June,1951-2000,40,1,216.3
+Ranchi (A),July,1951-2000,40,1,337.9
+Ranchi (A),August,1951-2000,40,1,326.8
+Ranchi (A),September,1951-2000,40,1,273.2
+Ranchi (A),October,1951-2000,40,1,99.7
+Ranchi (A),November,1951-2000,40,1,16.0
+Ranchi (A),December,1951-2000,40,1,6.1
+Sambalpur,January,1901-2000,95,1,14.2
+Sambalpur,February,1901-2000,95,1,28.0
+Sambalpur,March,1901-2000,95,1,20.9
+Sambalpur,April,1901-2000,95,1,14.2
+Sambalpur,May,1901-2000,95,1,22.7
+Sambalpur,June,1901-2000,95,1,218.9
+Sambalpur,July,1901-2000,95,1,459.0
+Sambalpur,August,1901-2000,95,1,487.5
+Sambalpur,September,1901-2000,95,1,243.5
+Sambalpur,October,1901-2000,95,1,56.6
+Sambalpur,November,1901-2000,95,1,17.6
+Sambalpur,December,1901-2000,95,1,4.8
+Shillong,January,1902-2000,99,1,13.7
+Shillong,February,1902-2000,99,1,22.7
+Shillong,March,1902-2000,99,1,53.7
+Shillong,April,1902-2000,99,1,130.1
+Shillong,May,1902-2000,99,1,273.7
+Shillong,June,1902-2000,99,1,468.8
+Shillong,July,1902-2000,99,1,394.5
+Shillong,August,1902-2000,99,1,317.5
+Shillong,September,1902-2000,99,1,293.8
+Shillong,October,1902-2000,99,1,192.4
+Shillong,November,1902-2000,99,1,37.3
+Shillong,December,1902-2000,99,1,9.3
+Shimla,January,1901-1992,90,1,57.9
+Shimla,February,1901-1992,90,1,64.2
+Shimla,March,1901-1992,90,1,62.1
+Shimla,April,1901-1992,90,1,46.1
+Shimla,May,1901-1992,90,1,62.8
+Shimla,June,1901-1992,90,1,161.1
+Shimla,July,1901-1992,90,1,419.0
+Shimla,August,1901-1992,90,1,385.9
+Shimla,September,1901-1992,90,1,206.5
+Shimla,October,1901-1992,90,1,38.5
+Shimla,November,1901-1992,90,1,12.0
+Shimla,December,1901-1992,90,1,23.2
+Silchar,January,1901-2000,89,1,18.0
+Silchar,February,1901-2000,89,1,47.6
+Silchar,March,1901-2000,89,1,152.6
+Silchar,April,1901-2000,89,1,328.8
+Silchar,May,1901-2000,89,1,430.5
+Silchar,June,1901-2000,89,1,588.3
+Silchar,July,1901-2000,89,1,531.3
+Silchar,August,1901-2000,89,1,480.7
+Silchar,September,1901-2000,89,1,383.8
+Silchar,October,1901-2000,89,1,204.4
+Silchar,November,1901-2000,89,1,42.0
+Silchar,December,1901-2000,89,1,10.0
+Solapur,January,1901-2000,100,1,4.7
+Solapur,February,1901-2000,100,1,4.4
+Solapur,March,1901-2000,100,1,5.0
+Solapur,April,1901-2000,100,1,12.4
+Solapur,May,1901-2000,100,1,27.6
+Solapur,June,1901-2000,100,1,116.9
+Solapur,July,1901-2000,100,1,129.9
+Solapur,August,1901-2000,100,1,119.8
+Solapur,September,1901-2000,100,1,182.4
+Solapur,October,1901-2000,100,1,85.4
+Solapur,November,1901-2000,100,1,26.4
+Solapur,December,1901-2000,100,1,7.8
+Sri Niketan,January,1961-2000,39,1,11.6
+Sri Niketan,February,1961-2000,39,1,23.5
+Sri Niketan,March,1961-2000,39,1,28.4
+Sri Niketan,April,1961-2000,39,1,44.9
+Sri Niketan,May,1961-2000,39,1,98.4
+Sri Niketan,June,1961-2000,39,1,242.8
+Sri Niketan,July,1961-2000,39,1,317.2
+Sri Niketan,August,1961-2000,39,1,276.5
+Sri Niketan,September,1961-2000,39,1,253.3
+Sri Niketan,October,1961-2000,39,1,97.2
+Sri Niketan,November,1961-2000,39,1,17.2
+Sri Niketan,December,1961-2000,39,1,8.6
+Srinagar,January,1901-2000,98,1,62.2
+Srinagar,February,1901-2000,98,1,71.4
+Srinagar,March,1901-2000,98,1,101.1
+Srinagar,April,1901-2000,98,1,90.7
+Srinagar,May,1901-2000,98,1,68.2
+Srinagar,June,1901-2000,98,1,36.3
+Srinagar,July,1901-2000,98,1,54.3
+Srinagar,August,1901-2000,98,1,64.6
+Srinagar,September,1901-2000,98,1,35.4
+Srinagar,October,1901-2000,98,1,30.9
+Srinagar,November,1901-2000,98,1,19.7
+Srinagar,December,1901-2000,98,1,41.4
+Surat,January,1901-2000,99,0,2.1
+Surat,February,1901-2000,99,0,1.0
+Surat,March,1901-2000,99,0,0.8
+Surat,April,1901-2000,99,0,2.2
+Surat,May,1901-2000,99,1,6.4
+Surat,June,1901-2000,99,1,212.8
+Surat,July,1901-2000,99,1,440.8
+Surat,August,1901-2000,99,1,233.4
+Surat,September,1901-2000,99,1,169.7
+Surat,October,1901-2000,99,1,33.5
+Surat,November,1901-2000,99,1,12.4
+Surat,December,1901-2000,99,0,2.1
+Thiruvananthapuram,January,1901-2000,100,1,22.9
+Thiruvananthapuram,February,1901-2000,100,1,21.9
+Thiruvananthapuram,March,1901-2000,100,1,36.4
+Thiruvananthapuram,April,1901-2000,100,1,110.5
+Thiruvananthapuram,May,1901-2000,100,1,210.0
+Thiruvananthapuram,June,1901-2000,100,1,343.5
+Thiruvananthapuram,July,1901-2000,100,1,218.6
+Thiruvananthapuram,August,1901-2000,100,1,143.2
+Thiruvananthapuram,September,1901-2000,100,1,152.5
+Thiruvananthapuram,October,1901-2000,100,1,267.9
+Thiruvananthapuram,November,1901-2000,100,1,199.0
+Thiruvananthapuram,December,1901-2000,100,1,70.2
+Tirupathy,January,1981-2000,20,1,22.0
+Tirupathy,February,1981-2000,20,1,19.7
+Tirupathy,March,1981-2000,20,1,2.9
+Tirupathy,April,1981-2000,20,1,13.9
+Tirupathy,May,1981-2000,20,1,45.7
+Tirupathy,June,1981-2000,20,1,69.7
+Tirupathy,July,1981-2000,20,1,113.0
+Tirupathy,August,1981-2000,20,1,118.6
+Tirupathy,September,1981-2000,20,1,119.1
+Tirupathy,October,1981-2000,20,1,157.5
+Tirupathy,November,1981-2000,20,1,218.7
+Tirupathy,December,1981-2000,20,1,130.5
+Tura,January,1950-1985,35,1,8.7
+Tura,February,1950-1985,35,1,11.0
+Tura,March,1950-1985,35,1,53.4
+Tura,April,1950-1985,35,1,147.8
+Tura,May,1950-1985,35,1,402.8
+Tura,June,1950-1985,35,1,611.5
+Tura,July,1950-1985,35,1,628.3
+Tura,August,1950-1985,35,1,458.8
+Tura,September,1950-1985,35,1,377.4
+Tura,October,1950-1985,35,1,210.7
+Tura,November,1950-1985,35,1,28.5
+Tura,December,1950-1985,35,0,2.4
+Udaipur (Dabok),January,1965-2000,36,0,2.4
+Udaipur (Dabok),February,1965-2000,36,1,13.8
+Udaipur (Dabok),March,1965-2000,36,1,6.2
+Udaipur (Dabok),April,1965-2000,36,1,5.2
+Udaipur (Dabok),May,1965-2000,36,1,16.9
+Udaipur (Dabok),June,1965-2000,36,1,75.2
+Udaipur (Dabok),July,1965-2000,36,1,175.1
+Udaipur (Dabok),August,1965-2000,36,1,195.3
+Udaipur (Dabok),September,1965-2000,36,1,89.4
+Udaipur (Dabok),October,1965-2000,36,1,16.3
+Udaipur (Dabok),November,1965-2000,36,1,12.8
+Udaipur (Dabok),December,1965-2000,36,1,2.9
+Uthagamandalam,January,1901-2000,87,1,20.5
+Uthagamandalam,February,1901-2000,87,1,10.2
+Uthagamandalam,March,1901-2000,87,1,25.8
+Uthagamandalam,April,1901-2000,87,1,75.4
+Uthagamandalam,May,1901-2000,87,1,147.5
+Uthagamandalam,June,1901-2000,87,1,136.7
+Uthagamandalam,July,1901-2000,87,1,181.1
+Uthagamandalam,August,1901-2000,87,1,123.7
+Uthagamandalam,September,1901-2000,87,1,134.9
+Uthagamandalam,October,1901-2000,87,1,189.2
+Uthagamandalam,November,1901-2000,87,1,139.9
+Uthagamandalam,December,1901-2000,87,1,52.8
+Varanasi (Babatpur),January,1952-2000,48,1,17.6
+Varanasi (Babatpur),February,1952-2000,48,1,15.0
+Varanasi (Babatpur),March,1952-2000,48,1,7.9
+Varanasi (Babatpur),April,1952-2000,48,1,4.4
+Varanasi (Babatpur),May,1952-2000,48,1,10.5
+Varanasi (Babatpur),June,1952-2000,48,1,96.6
+Varanasi (Babatpur),July,1952-2000,48,1,309.9
+Varanasi (Babatpur),August,1952-2000,48,1,273.2
+Varanasi (Babatpur),September,1952-2000,48,1,246.4
+Varanasi (Babatpur),October,1952-2000,48,1,35.1
+Varanasi (Babatpur),November,1952-2000,48,1,10.7
+Varanasi (Babatpur),December,1952-2000,48,1,6.5
+Vijayawada,January,1978-1993,14,1,6.2
+Vijayawada,February,1978-1993,14,1,4.6
+Vijayawada,March,1978-1993,14,1,4.6
+Vijayawada,April,1978-1993,14,1,4.8
+Vijayawada,May,1978-1993,14,1,20.8
+Vijayawada,June,1978-1993,14,1,80.8
+Vijayawada,July,1978-1993,14,1,173.0
+Vijayawada,August,1978-1993,14,1,146.2
+Vijayawada,September,1978-1993,14,1,179.9
+Vijayawada,October,1978-1993,14,1,57.2
+Vijayawada,November,1978-1993,14,1,52.3
+Vijayawada,December,1978-1993,14,1,5.8
+Vishakhapatnam,January,1968-2000,29,1,14.2
+Vishakhapatnam,February,1968-2000,29,1,21.1
+Vishakhapatnam,March,1968-2000,29,1,8.3
+Vishakhapatnam,April,1968-2000,29,1,25.6
+Vishakhapatnam,May,1968-2000,29,1,68.7
+Vishakhapatnam,June,1968-2000,29,1,124.6
+Vishakhapatnam,July,1968-2000,29,1,142.1
+Vishakhapatnam,August,1968-2000,29,1,165.2
+Vishakhapatnam,September,1968-2000,29,1,164.0
+Vishakhapatnam,October,1968-2000,29,1,238.2
+Vishakhapatnam,November,1968-2000,29,1,124.0
+Vishakhapatnam,December,1968-2000,29,1,6.7

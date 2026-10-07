@@ -1,0 +1,1454 @@
+{
+  "n_rows": 240457,
+  "n_crops": 124,
+  "n_states": 33,
+  "top_producing_states": [
+    {
+      "state": "Uttar Pradesh",
+      "record_count": 33162,
+      "pct_of_total": 13.791239182057499
+    },
+    {
+      "state": "Madhya Pradesh",
+      "record_count": 22564,
+      "pct_of_total": 9.383798350640655
+    },
+    {
+      "state": "Karnataka",
+      "record_count": 20540,
+      "pct_of_total": 8.542067812540289
+    },
+    {
+      "state": "Bihar",
+      "record_count": 18802,
+      "pct_of_total": 7.819277459171495
+    },
+    {
+      "state": "Assam",
+      "record_count": 14614,
+      "pct_of_total": 6.07759391492034
+    },
+    {
+      "state": "Odisha",
+      "record_count": 13517,
+      "pct_of_total": 5.621379290268115
+    },
+    {
+      "state": "Tamil Nadu",
+      "record_count": 13070,
+      "pct_of_total": 5.435483267278557
+    },
+    {
+      "state": "Maharashtra",
+      "record_count": 12455,
+      "pct_of_total": 5.179720282628495
+    },
+    {
+      "state": "Rajasthan",
+      "record_count": 11977,
+      "pct_of_total": 4.980932141713487
+    },
+    {
+      "state": "Chhattisgarh",
+      "record_count": 10350,
+      "pct_of_total": 4.304303888013242
+    }
+  ],
+  "top3_states_pct_of_total": 31.717105345238444,
+  "crop_production_by_state_chart": [
+    {
+      "state": "Uttar Pradesh",
+      "record_count": 33162
+    },
+    {
+      "state": "Madhya Pradesh",
+      "record_count": 22564
+    },
+    {
+      "state": "Karnataka",
+      "record_count": 20540
+    },
+    {
+      "state": "Bihar",
+      "record_count": 18802
+    },
+    {
+      "state": "Assam",
+      "record_count": 14614
+    },
+    {
+      "state": "Odisha",
+      "record_count": 13517
+    },
+    {
+      "state": "Tamil Nadu",
+      "record_count": 13070
+    },
+    {
+      "state": "Maharashtra",
+      "record_count": 12455
+    }
+  ],
+  "yield_correlations": [
+    {
+      "feature": "Temperature_Range",
+      "correlation": -0.07350748512420105
+    },
+    {
+      "feature": "Weather_Index",
+      "correlation": 0.04234066538614266
+    },
+    {
+      "feature": "Fertilizer_Consumption",
+      "correlation": -0.041396645098517725
+    },
+    {
+      "feature": "Input_Intensity",
+      "correlation": -0.041396645098512895
+    },
+    {
+      "feature": "Agricultural_Intensity",
+      "correlation": -0.04138630905574101
+    },
+    {
+      "feature": "Climate_Index",
+      "correlation": 0.040412587996701346
+    },
+    {
+      "feature": "Average_Temperature",
+      "correlation": 0.031209233319259243
+    },
+    {
+      "feature": "Annual_Rainfall",
+      "correlation": 0.0280385601973444
+    }
+  ],
+  "area_production_scatter_sample": [
+    {
+      "area": 5800.0,
+      "production": 14000.0
+    },
+    {
+      "area": 150228.0,
+      "production": 479643.0
+    },
+    {
+      "area": 46504.0,
+      "production": 29973.0
+    },
+    {
+      "area": 70799.0,
+      "production": 225452.0
+    },
+    {
+      "area": 31966.0,
+      "production": 36808.0
+    },
+    {
+      "area": 9786.0,
+      "production": 23398.0
+    },
+    {
+      "area": 16275.0,
+      "production": 10900.0
+    },
+    {
+      "area": 5100.0,
+      "production": 7570.0
+    },
+    {
+      "area": 58105.0,
+      "production": 135908.0
+    },
+    {
+      "area": 7712.0,
+      "production": 5563.0
+    },
+    {
+      "area": 18330.0,
+      "production": 52750.0
+    },
+    {
+      "area": 79669.0,
+      "production": 229871.0
+    },
+    {
+      "area": 109179.0,
+      "production": 150499.0
+    },
+    {
+      "area": 140.0,
+      "production": 322.0
+    },
+    {
+      "area": 250000.0,
+      "production": 1133000.0
+    },
+    {
+      "area": 29.0,
+      "production": 47.11
+    },
+    {
+      "area": 34618.0,
+      "production": 100635.0
+    },
+    {
+      "area": 5380.0,
+      "production": 8000.0
+    },
+    {
+      "area": 1973.0,
+      "production": 5173.0
+    },
+    {
+      "area": 400.0,
+      "production": 100.0
+    },
+    {
+      "area": 102169.0,
+      "production": 321436.0
+    },
+    {
+      "area": 1000.0,
+      "production": 1000.0
+    },
+    {
+      "area": 25400.0,
+      "production": 44900.0
+    },
+    {
+      "area": 179862.0,
+      "production": 466273.0
+    },
+    {
+      "area": 8799.0,
+      "production": 11669.0
+    },
+    {
+      "area": 21705.0,
+      "production": 57921.0
+    },
+    {
+      "area": 12090.0,
+      "production": 28490.0
+    },
+    {
+      "area": 46632.0,
+      "production": 121383.0
+    },
+    {
+      "area": 4500.0,
+      "production": 1224.0
+    },
+    {
+      "area": 270270.0,
+      "production": 731799.0
+    },
+    {
+      "area": 57794.98,
+      "production": 42806.67
+    },
+    {
+      "area": 34266.0,
+      "production": 30749.0
+    },
+    {
+      "area": 52344.0,
+      "production": 119920.0
+    },
+    {
+      "area": 170000.0,
+      "production": 255000.0
+    },
+    {
+      "area": 21390.0,
+      "production": 63165.0
+    },
+    {
+      "area": 25642.0,
+      "production": 24554.0
+    },
+    {
+      "area": 182000.0,
+      "production": 518000.0
+    },
+    {
+      "area": 3340.0,
+      "production": 6319.0
+    },
+    {
+      "area": 102788.0,
+      "production": 47541.0
+    },
+    {
+      "area": 24000.0,
+      "production": 85000.0
+    },
+    {
+      "area": 914.0,
+      "production": 1495.0
+    },
+    {
+      "area": 100.0,
+      "production": 500.0
+    },
+    {
+      "area": 4973.0,
+      "production": 5172.0
+    },
+    {
+      "area": 1071.0,
+      "production": 2210.0
+    },
+    {
+      "area": 4891.0,
+      "production": 1581.0
+    },
+    {
+      "area": 5800.0,
+      "production": 1100.0
+    },
+    {
+      "area": 16937.0,
+      "production": 26718.0
+    },
+    {
+      "area": 2000.0,
+      "production": 4000.0
+    },
+    {
+      "area": 250.0,
+      "production": 600.0
+    },
+    {
+      "area": 20462.0,
+      "production": 36613.0
+    },
+    {
+      "area": 254064.0,
+      "production": 546260.0
+    },
+    {
+      "area": 58119.0,
+      "production": 85302.0
+    },
+    {
+      "area": 325501.0,
+      "production": 794541.0
+    },
+    {
+      "area": 56109.0,
+      "production": 180652.0
+    },
+    {
+      "area": 42018.0,
+      "production": 109833.0
+    },
+    {
+      "area": 262000.0,
+      "production": 1207000.0
+    },
+    {
+      "area": 64769.0,
+      "production": 146049.0
+    },
+    {
+      "area": 40065.0,
+      "production": 100102.4
+    },
+    {
+      "area": 129000.0,
+      "production": 157000.0
+    },
+    {
+      "area": 140359.0,
+      "production": 513370.0
+    },
+    {
+      "area": 41202.0,
+      "production": 110865.0
+    },
+    {
+      "area": 110652.0,
+      "production": 242677.0
+    },
+    {
+      "area": 23661.0,
+      "production": 3238.0
+    },
+    {
+      "area": 123633.0,
+      "production": 289803.0
+    },
+    {
+      "area": 1682.0,
+      "production": 1420.0
+    },
+    {
+      "area": 10780.0,
+      "production": 16050.0
+    },
+    {
+      "area": 1656.0,
+      "production": 1031.0
+    },
+    {
+      "area": 116154.0,
+      "production": 260766.0
+    },
+    {
+      "area": 5.0,
+      "production": 10.0
+    },
+    {
+      "area": 8915.0,
+      "production": 6964.0
+    },
+    {
+      "area": 35823.0,
+      "production": 86262.0
+    },
+    {
+      "area": 103299.0,
+      "production": 145882.0
+    },
+    {
+      "area": 1.0,
+      "production": 3.0
+    },
+    {
+      "area": 81817.0,
+      "production": 291510.0
+    },
+    {
+      "area": 42118.0,
+      "production": 79878.0
+    },
+    {
+      "area": 36.0,
+      "production": 72.0
+    },
+    {
+      "area": 12000.0,
+      "production": 10000.0
+    },
+    {
+      "area": 2000.0,
+      "production": 3000.0
+    },
+    {
+      "area": 130411.0,
+      "production": 360230.0
+    },
+    {
+      "area": 108400.0,
+      "production": 308000.0
+    },
+    {
+      "area": 14592.0,
+      "production": 68619.0
+    },
+    {
+      "area": 3000.0,
+      "production": 6000.0
+    },
+    {
+      "area": 26150.0,
+      "production": 41630.0
+    },
+    {
+      "area": 3440.0,
+      "production": 5504.0
+    },
+    {
+      "area": 9028.0,
+      "production": 18084.0
+    },
+    {
+      "area": 23000.0,
+      "production": 37000.0
+    },
+    {
+      "area": 605.0,
+      "production": 1887.0
+    },
+    {
+      "area": 4005.0,
+      "production": 14518.0
+    },
+    {
+      "area": 1300.0,
+      "production": 1300.0
+    },
+    {
+      "area": 39502.0,
+      "production": 94532.0
+    },
+    {
+      "area": 71543.0,
+      "production": 120765.0
+    },
+    {
+      "area": 54000.0,
+      "production": 161000.0
+    },
+    {
+      "area": 20083.0,
+      "production": 31474.0
+    },
+    {
+      "area": 6724.0,
+      "production": 16803.0
+    },
+    {
+      "area": 59448.0,
+      "production": 201392.0
+    },
+    {
+      "area": 58545.0,
+      "production": 22366.0
+    },
+    {
+      "area": 15025.0,
+      "production": 15792.0
+    },
+    {
+      "area": 163328.0,
+      "production": 592495.0
+    },
+    {
+      "area": 155599.0,
+      "production": 344404.0
+    },
+    {
+      "area": 131000.0,
+      "production": 167000.0
+    },
+    {
+      "area": 116000.0,
+      "production": 213000.0
+    },
+    {
+      "area": 85.0,
+      "production": 122.0
+    },
+    {
+      "area": 540.0,
+      "production": 1052.0
+    },
+    {
+      "area": 187162.0,
+      "production": 528433.0
+    },
+    {
+      "area": 149871.0,
+      "production": 324021.0
+    },
+    {
+      "area": 13046.0,
+      "production": 20193.0
+    },
+    {
+      "area": 74942.0,
+      "production": 195536.0
+    },
+    {
+      "area": 400.0,
+      "production": 100.0
+    },
+    {
+      "area": 100.0,
+      "production": 200.0
+    },
+    {
+      "area": 913.0,
+      "production": 806.0
+    },
+    {
+      "area": 50196.0,
+      "production": 51888.0
+    },
+    {
+      "area": 67809.0,
+      "production": 91799.0
+    },
+    {
+      "area": 75683.0,
+      "production": 210000.0
+    },
+    {
+      "area": 25617.0,
+      "production": 38474.0
+    },
+    {
+      "area": 259.0,
+      "production": 791.0
+    },
+    {
+      "area": 25106.0,
+      "production": 22309.0
+    },
+    {
+      "area": 5000.0,
+      "production": 14000.0
+    },
+    {
+      "area": 15580.0,
+      "production": 20170.0
+    },
+    {
+      "area": 111100.0,
+      "production": 249676.0
+    },
+    {
+      "area": 22922.0,
+      "production": 45047.0
+    },
+    {
+      "area": 117169.0,
+      "production": 213740.0
+    },
+    {
+      "area": 129875.0,
+      "production": 166254.0
+    },
+    {
+      "area": 107199.0,
+      "production": 368902.0
+    },
+    {
+      "area": 75636.0,
+      "production": 309928.0
+    },
+    {
+      "area": 93308.0,
+      "production": 117436.0
+    },
+    {
+      "area": 224000.0,
+      "production": 324000.0
+    },
+    {
+      "area": 22354.0,
+      "production": 25080.0
+    },
+    {
+      "area": 79.0,
+      "production": 75.0
+    },
+    {
+      "area": 5806.0,
+      "production": 7964.0
+    },
+    {
+      "area": 5900.0,
+      "production": 7200.0
+    },
+    {
+      "area": 16993.0,
+      "production": 25682.0
+    },
+    {
+      "area": 91356.0,
+      "production": 345129.0
+    },
+    {
+      "area": 84038.0,
+      "production": 163470.0
+    },
+    {
+      "area": 2900.0,
+      "production": 4800.0
+    },
+    {
+      "area": 5.0,
+      "production": 5.0
+    },
+    {
+      "area": 43000.0,
+      "production": 109000.0
+    },
+    {
+      "area": 92807.0,
+      "production": 101004.0
+    },
+    {
+      "area": 710.0,
+      "production": 441.0
+    },
+    {
+      "area": 165636.0,
+      "production": 356449.0
+    },
+    {
+      "area": 177458.0,
+      "production": 549765.0
+    },
+    {
+      "area": 174.0,
+      "production": 295.0
+    },
+    {
+      "area": 2000.0,
+      "production": 4000.0
+    },
+    {
+      "area": 1.0,
+      "production": 2.0
+    },
+    {
+      "area": 5610.0,
+      "production": 5930.0
+    },
+    {
+      "area": 233263.0,
+      "production": 114090.0
+    },
+    {
+      "area": 12900.0,
+      "production": 21280.0
+    },
+    {
+      "area": 950.0,
+      "production": 3374.0
+    },
+    {
+      "area": 203946.0,
+      "production": 572069.0
+    },
+    {
+      "area": 54783.0,
+      "production": 134484.0
+    },
+    {
+      "area": 18135.0,
+      "production": 54388.0
+    },
+    {
+      "area": 294204.0,
+      "production": 794716.0
+    },
+    {
+      "area": 410.0,
+      "production": 849.0
+    },
+    {
+      "area": 73401.0,
+      "production": 166483.0
+    },
+    {
+      "area": 2240.0,
+      "production": 4223.0
+    },
+    {
+      "area": 24475.0,
+      "production": 20930.0
+    },
+    {
+      "area": 3.0,
+      "production": 8.0
+    },
+    {
+      "area": 22712.0,
+      "production": 12841.0
+    },
+    {
+      "area": 58000.0,
+      "production": 65000.0
+    },
+    {
+      "area": 39260.0,
+      "production": 84000.0
+    },
+    {
+      "area": 34143.0,
+      "production": 148297.0
+    },
+    {
+      "area": 115000.0,
+      "production": 168000.0
+    },
+    {
+      "area": 273140.0,
+      "production": 330390.0
+    },
+    {
+      "area": 19065.0,
+      "production": 23419.0
+    },
+    {
+      "area": 4300.0,
+      "production": 8500.0
+    },
+    {
+      "area": 3.0,
+      "production": 6.0
+    },
+    {
+      "area": 1273.0,
+      "production": 1651.0
+    },
+    {
+      "area": 4200.0,
+      "production": 8800.0
+    },
+    {
+      "area": 53534.0,
+      "production": 93170.0
+    },
+    {
+      "area": 72581.0,
+      "production": 53015.0
+    },
+    {
+      "area": 54000.0,
+      "production": 89000.0
+    },
+    {
+      "area": 108000.0,
+      "production": 422000.0
+    },
+    {
+      "area": 26000.0,
+      "production": 39000.0
+    },
+    {
+      "area": 2023.0,
+      "production": 4651.0
+    },
+    {
+      "area": 113632.0,
+      "production": 368655.0
+    },
+    {
+      "area": 78000.0,
+      "production": 316000.0
+    },
+    {
+      "area": 6850.0,
+      "production": 13501.0
+    },
+    {
+      "area": 12630.0,
+      "production": 27207.0
+    },
+    {
+      "area": 85000.0,
+      "production": 145000.0
+    },
+    {
+      "area": 116530.94,
+      "production": 61450.65
+    },
+    {
+      "area": 3.0,
+      "production": 3.0
+    },
+    {
+      "area": 35616.41,
+      "production": 43832.0
+    },
+    {
+      "area": 289000.0,
+      "production": 447000.0
+    },
+    {
+      "area": 76010.0,
+      "production": 290788.0
+    },
+    {
+      "area": 851.0,
+      "production": 2345.0
+    },
+    {
+      "area": 2.0,
+      "production": 4.0
+    },
+    {
+      "area": 1000.0,
+      "production": 2000.0
+    },
+    {
+      "area": 71064.0,
+      "production": 176630.0
+    },
+    {
+      "area": 93715.0,
+      "production": 104967.0
+    },
+    {
+      "area": 31324.0,
+      "production": 10096.0
+    },
+    {
+      "area": 133885.0,
+      "production": 234880.0
+    },
+    {
+      "area": 117679.0,
+      "production": 181966.0
+    },
+    {
+      "area": 21178.0,
+      "production": 46761.0
+    },
+    {
+      "area": 102000.0,
+      "production": 415000.0
+    },
+    {
+      "area": 98800.0,
+      "production": 198900.0
+    },
+    {
+      "area": 77.0,
+      "production": 102.0
+    },
+    {
+      "area": 37063.0,
+      "production": 61962.0
+    },
+    {
+      "area": 13304.0,
+      "production": 44462.0
+    },
+    {
+      "area": 4858.61,
+      "production": 4152.49
+    },
+    {
+      "area": 1034.0,
+      "production": 2765.0
+    },
+    {
+      "area": 1.0,
+      "production": 2.0
+    },
+    {
+      "area": 39765.0,
+      "production": 135834.0
+    },
+    {
+      "area": 196816.0,
+      "production": 678014.0
+    },
+    {
+      "area": 2178.0,
+      "production": 4593.0
+    },
+    {
+      "area": 35567.0,
+      "production": 100406.0
+    },
+    {
+      "area": 14023.0,
+      "production": 25638.0
+    },
+    {
+      "area": 1455.0,
+      "production": 1230.0
+    },
+    {
+      "area": 62459.0,
+      "production": 91080.0
+    },
+    {
+      "area": 3230.0,
+      "production": 8459.0
+    },
+    {
+      "area": 2000.0,
+      "production": 4000.0
+    },
+    {
+      "area": 7127.0,
+      "production": 7590.0
+    },
+    {
+      "area": 181900.0,
+      "production": 197500.0
+    },
+    {
+      "area": 10773.0,
+      "production": 33439.0
+    },
+    {
+      "area": 3520.0,
+      "production": 8166.0
+    },
+    {
+      "area": 17.0,
+      "production": 22.0
+    },
+    {
+      "area": 256147.0,
+      "production": 558800.0
+    },
+    {
+      "area": 17394.0,
+      "production": 58427.0
+    },
+    {
+      "area": 15652.0,
+      "production": 30547.0
+    },
+    {
+      "area": 10835.0,
+      "production": 9094.0
+    },
+    {
+      "area": 95600.0,
+      "production": 79700.0
+    },
+    {
+      "area": 33235.0,
+      "production": 32795.0
+    },
+    {
+      "area": 49.0,
+      "production": 99.0
+    },
+    {
+      "area": 1000.0,
+      "production": 3000.0
+    },
+    {
+      "area": 7317.0,
+      "production": 17000.0
+    },
+    {
+      "area": 28744.0,
+      "production": 24649.0
+    },
+    {
+      "area": 79400.0,
+      "production": 191500.0
+    },
+    {
+      "area": 36145.0,
+      "production": 31357.0
+    },
+    {
+      "area": 33100.0,
+      "production": 45300.0
+    },
+    {
+      "area": 26025.0,
+      "production": 36479.0
+    },
+    {
+      "area": 49470.0,
+      "production": 133272.0
+    },
+    {
+      "area": 148608.0,
+      "production": 239805.0
+    },
+    {
+      "area": 48.0,
+      "production": 80.0
+    },
+    {
+      "area": 149929.0,
+      "production": 512013.0
+    },
+    {
+      "area": 141813.0,
+      "production": 234669.0
+    },
+    {
+      "area": 84000.0,
+      "production": 383000.0
+    },
+    {
+      "area": 25361.0,
+      "production": 65571.0
+    },
+    {
+      "area": 2220.0,
+      "production": 3330.0
+    },
+    {
+      "area": 7819.0,
+      "production": 8100.0
+    },
+    {
+      "area": 24000.0,
+      "production": 37000.0
+    },
+    {
+      "area": 128344.0,
+      "production": 256303.0
+    },
+    {
+      "area": 48107.0,
+      "production": 93520.0
+    },
+    {
+      "area": 1.0,
+      "production": 2.0
+    },
+    {
+      "area": 69873.0,
+      "production": 228485.0
+    },
+    {
+      "area": 96000.0,
+      "production": 178000.0
+    },
+    {
+      "area": 38500.0,
+      "production": 82103.0
+    },
+    {
+      "area": 461.0,
+      "production": 437.0
+    },
+    {
+      "area": 6887.0,
+      "production": 18490.0
+    },
+    {
+      "area": 9340.0,
+      "production": 6566.0
+    },
+    {
+      "area": 61033.0,
+      "production": 77754.0
+    },
+    {
+      "area": 43000.0,
+      "production": 145000.0
+    },
+    {
+      "area": 33883.0,
+      "production": 64834.0
+    },
+    {
+      "area": 248.0,
+      "production": 309.0
+    },
+    {
+      "area": 44438.0,
+      "production": 49677.0
+    },
+    {
+      "area": 38548.0,
+      "production": 161599.0
+    },
+    {
+      "area": 149000.0,
+      "production": 554000.0
+    },
+    {
+      "area": 13660.0,
+      "production": 31320.0
+    },
+    {
+      "area": 114000.0,
+      "production": 221000.0
+    },
+    {
+      "area": 2383.0,
+      "production": 5741.0
+    },
+    {
+      "area": 25978.0,
+      "production": 80462.0
+    },
+    {
+      "area": 110152.0,
+      "production": 145072.0
+    },
+    {
+      "area": 142660.0,
+      "production": 395739.0
+    },
+    {
+      "area": 104312.0,
+      "production": 149366.0
+    },
+    {
+      "area": 96230.0,
+      "production": 252315.06
+    },
+    {
+      "area": 22276.0,
+      "production": 49809.0
+    },
+    {
+      "area": 288735.0,
+      "production": 729553.0
+    },
+    {
+      "area": 875.0,
+      "production": 714.0
+    },
+    {
+      "area": 2526.0,
+      "production": 6810.0
+    },
+    {
+      "area": 208437.0,
+      "production": 191663.0
+    },
+    {
+      "area": 17015.0,
+      "production": 37977.0
+    },
+    {
+      "area": 16000.0,
+      "production": 23000.0
+    },
+    {
+      "area": 23031.0,
+      "production": 28882.0
+    },
+    {
+      "area": 41462.0,
+      "production": 77682.0
+    },
+    {
+      "area": 2351.0,
+      "production": 1222.0
+    },
+    {
+      "area": 234000.0,
+      "production": 903000.0
+    },
+    {
+      "area": 9927.0,
+      "production": 11104.0
+    },
+    {
+      "area": 143.0,
+      "production": 316.0
+    },
+    {
+      "area": 102098.0,
+      "production": 265223.0
+    },
+    {
+      "area": 19823.0,
+      "production": 42559.0
+    },
+    {
+      "area": 163696.0,
+      "production": 525850.0
+    },
+    {
+      "area": 2400.0,
+      "production": 1500.0
+    },
+    {
+      "area": 7416.0,
+      "production": 9225.0
+    },
+    {
+      "area": 51746.0,
+      "production": 154947.0
+    },
+    {
+      "area": 166780.0,
+      "production": 399271.0
+    },
+    {
+      "area": 127315.75,
+      "production": 124514.7
+    },
+    {
+      "area": 44000.0,
+      "production": 105700.0
+    },
+    {
+      "area": 13251.0,
+      "production": 28315.0
+    },
+    {
+      "area": 9110.0,
+      "production": 15943.0
+    },
+    {
+      "area": 40000.0,
+      "production": 57000.0
+    },
+    {
+      "area": 59379.0,
+      "production": 213000.0
+    },
+    {
+      "area": 28494.0,
+      "production": 23668.0
+    },
+    {
+      "area": 22000.0,
+      "production": 6000.0
+    },
+    {
+      "area": 104000.0,
+      "production": 41000.0
+    },
+    {
+      "area": 1315.0,
+      "production": 3537.0
+    },
+    {
+      "area": 522.0,
+      "production": 678.0
+    },
+    {
+      "area": 18200.0,
+      "production": 8300.0
+    },
+    {
+      "area": 14391.0,
+      "production": 26486.0
+    },
+    {
+      "area": 74851.0,
+      "production": 184732.0
+    },
+    {
+      "area": 289.0,
+      "production": 616.0
+    },
+    {
+      "area": 50894.0,
+      "production": 112425.0
+    },
+    {
+      "area": 551.0,
+      "production": 1284.0
+    },
+    {
+      "area": 1662.0,
+      "production": 5378.0
+    }
+  ],
+  "area_production_scatter_crop": "Rice",
+  "area_production_scatter_correlation": 0.8696290491567514,
+  "yield_histogram": [
+    {
+      "bin_start": 0.0,
+      "bin_end": 6.749345862319596,
+      "count": 210168
+    },
+    {
+      "bin_start": 6.749345862319596,
+      "bin_end": 13.498691724639192,
+      "count": 12311
+    },
+    {
+      "bin_start": 13.498691724639192,
+      "bin_end": 20.248037586958787,
+      "count": 5101
+    },
+    {
+      "bin_start": 20.248037586958787,
+      "bin_end": 26.997383449278384,
+      "count": 2768
+    },
+    {
+      "bin_start": 26.997383449278384,
+      "bin_end": 33.74672931159798,
+      "count": 1311
+    },
+    {
+      "bin_start": 33.74672931159798,
+      "bin_end": 40.496075173917575,
+      "count": 1432
+    },
+    {
+      "bin_start": 40.496075173917575,
+      "bin_end": 47.245421036237175,
+      "count": 1235
+    },
+    {
+      "bin_start": 47.245421036237175,
+      "bin_end": 53.99476689855677,
+      "count": 1092
+    },
+    {
+      "bin_start": 53.99476689855677,
+      "bin_end": 60.74411276087636,
+      "count": 932
+    },
+    {
+      "bin_start": 60.74411276087636,
+      "bin_end": 67.49345862319596,
+      "count": 764
+    },
+    {
+      "bin_start": 67.49345862319596,
+      "bin_end": 74.24280448551556,
+      "count": 566
+    },
+    {
+      "bin_start": 74.24280448551556,
+      "bin_end": 80.99215034783515,
+      "count": 2777
+    }
+  ],
+  "rainfall_histogram": [
+    {
+      "bin_start": 50.50833333333333,
+      "bin_end": 83.8025462962963,
+      "count": 77413
+    },
+    {
+      "bin_start": 83.8025462962963,
+      "bin_end": 117.09675925925927,
+      "count": 76588
+    },
+    {
+      "bin_start": 117.09675925925927,
+      "bin_end": 150.39097222222222,
+      "count": 43200
+    },
+    {
+      "bin_start": 150.39097222222222,
+      "bin_end": 183.6851851851852,
+      "count": 22190
+    },
+    {
+      "bin_start": 183.6851851851852,
+      "bin_end": 216.97939814814816,
+      "count": 14614
+    },
+    {
+      "bin_start": 216.97939814814816,
+      "bin_end": 250.2736111111111,
+      "count": 199
+    },
+    {
+      "bin_start": 250.2736111111111,
+      "bin_end": 283.5678240740741,
+      "count": 201
+    },
+    {
+      "bin_start": 283.5678240740741,
+      "bin_end": 316.86203703703706,
+      "count": 691
+    },
+    {
+      "bin_start": 316.86203703703706,
+      "bin_end": 350.15625,
+      "count": 0
+    },
+    {
+      "bin_start": 350.15625,
+      "bin_end": 383.450462962963,
+      "count": 2523
+    },
+    {
+      "bin_start": 383.450462962963,
+      "bin_end": 416.74467592592595,
+      "count": 0
+    },
+    {
+      "bin_start": 416.74467592592595,
+      "bin_end": 450.0388888888889,
+      "count": 2838
+    }
+  ]
+}

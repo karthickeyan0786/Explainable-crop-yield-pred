@@ -1,0 +1,6 @@
+{
+  "name": "Yield Engine v2.4",
+  "description": "AI Crop Yield Prediction & Decision Support System",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}

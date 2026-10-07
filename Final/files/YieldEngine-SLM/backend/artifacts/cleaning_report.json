@@ -1,0 +1,33 @@
+{
+  "rows_before": 246091,
+  "rows_removed": 5634,
+  "pct_removed": 2.2893970116745432,
+  "rows_after": 240457,
+  "sentinel_production_729_count": 3766,
+  "per_crop_tukey_outlier_count": 5030,
+  "rule": "Remove rows where Production == 729.0 exactly (repeated sentinel/placeholder value across 58 crops and 28 states), OR where Yield exceeds Q3 + 3*IQR computed WITHIN that row's own crop group (per-crop Tukey far-outlier fence, respects that different crops use different production units in this dataset).",
+  "top_crops_affected": {
+    "Peas & Beans (Pulses)": 324,
+    "Maize": 304,
+    "Dry Chillies": 250,
+    "Sesamum": 243,
+    "Moong(Green Gram)": 234,
+    "Sannhamp": 228,
+    "Arecanut": 225,
+    "Gram": 162,
+    "Cotton(Lint)": 162,
+    "Urad": 159
+  },
+  "top_states_affected": {
+    "Haryana": 1484,
+    "Karnataka": 582,
+    "Rajasthan": 537,
+    "Tamil Nadu": 477,
+    "Madhya Pradesh": 379,
+    "Chhattisgarh": 359,
+    "Andhra Pradesh": 345,
+    "Kerala": 273,
+    "Maharashtra": 173,
+    "Uttar Pradesh": 144
+  }
+}

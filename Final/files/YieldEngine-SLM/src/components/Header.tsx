@@ -25,7 +25,10 @@ export const Header: React.FC<HeaderProps> = ({
   onToggleTheme,
 }) => {
   return (
-    <header className="bg-surface-container-lowest dark:bg-surface-container-lowest border-b border-outline-variant flex justify-between items-center w-full px-4 md:px-8 py-4 z-30 sticky top-0">
+    <header
+  className="border-b border-outline-variant flex justify-between items-center w-full px-4 md:px-8 py-4 z-50 sticky top-0"
+  style={{ backgroundColor: isDark ? '#111411' : '#f8f9f8', opacity: 1 }}
+      >
       <div className="flex items-center">
         {/* Mobile Menu Toggle */}
         <button 
